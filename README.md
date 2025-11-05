@@ -59,10 +59,10 @@ PokeForge/
 
 ### Generation Quality
 The fine-tuned model successfully:
-- ✅ Generates novel designs not present in training data
-- ✅ Maintains consistent art style and aesthetic
-- ✅ Generalizes to unseen type combinations
-- ✅ Produces high-quality 512×512 images in ~45 seconds
+- Generates novel designs not present in training data
+- Maintains consistent art style and aesthetic
+- Generalizes to unseen type combinations
+- Produces high-quality 512×512 images in ~45 seconds
 
 ## Installation
 
