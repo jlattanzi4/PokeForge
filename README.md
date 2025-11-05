@@ -33,6 +33,25 @@ This project demonstrates modern transfer learning techniques by fine-tuning a p
 - Support for negative prompting
 - Batch generation capabilities
 
+## Sample Outputs
+
+The fine-tuned model generates diverse, high-quality designs with authentic Pokemon art style:
+
+<table>
+  <tr>
+    <td align="center"><img src="examples/fire_dragon.png" width="200"/><br/><b>Fire/Dragon Type</b></td>
+    <td align="center"><img src="examples/water_starter.png" width="200"/><br/><b>Water Starter</b></td>
+    <td align="center"><img src="examples/ghost_legendary.png" width="200"/><br/><b>Ghost/Dark Legendary</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="examples/fire_dragon_2.png" width="200"/><br/><b>Fire Type</b></td>
+    <td align="center"><img src="examples/electric_mouse.png" width="200"/><br/><b>Electric Mouse</b></td>
+    <td align="center"><img src="examples/grass_starter.png" width="200"/><br/><b>Grass Starter</b></td>
+  </tr>
+</table>
+
+*All images generated with 50 inference steps, guidance scale 9.0-9.5. Model successfully generalizes to novel type combinations not present in training data.*
+
 ## Project Structure
 
 ```
@@ -43,6 +62,7 @@ PokeForge/
 ├── generate_pokemon.py         # Inference script
 ├── test_setup.py              # Environment validation
 ├── requirements.txt           # Python dependencies
+├── examples/                  # Sample generated outputs
 └── data/
     ├── raw/                   # Original images & metadata
     └── processed/             # Preprocessed images & CSV
