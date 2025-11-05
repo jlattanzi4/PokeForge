@@ -1,0 +1,906 @@
+image_id,image_filename,image_path,name,caption,types,genus,generation
+1,001_bulbasaur.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/001_bulbasaur.png,bulbasaur,grass and poison-type seed pokemon,"grass, poison",Seed Pokémon,generation-i
+2,002_ivysaur.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/002_ivysaur.png,ivysaur,grass and poison-type seed pokemon,"grass, poison",Seed Pokémon,generation-i
+3,003_venusaur.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/003_venusaur.png,venusaur,grass and poison-type seed pokemon,"grass, poison",Seed Pokémon,generation-i
+4,004_charmander.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/004_charmander.png,charmander,fire-type lizard pokemon,fire,Lizard Pokémon,generation-i
+5,005_charmeleon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/005_charmeleon.png,charmeleon,fire-type flame pokemon,fire,Flame Pokémon,generation-i
+6,006_charizard.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/006_charizard.png,charizard,fire and flying-type flame pokemon,"fire, flying",Flame Pokémon,generation-i
+7,007_squirtle.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/007_squirtle.png,squirtle,water-type tiny turtle pokemon,water,Tiny Turtle Pokémon,generation-i
+8,008_wartortle.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/008_wartortle.png,wartortle,water-type turtle pokemon,water,Turtle Pokémon,generation-i
+9,009_blastoise.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/009_blastoise.png,blastoise,water-type shellfish pokemon,water,Shellfish Pokémon,generation-i
+10,010_caterpie.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/010_caterpie.png,caterpie,bug-type worm pokemon,bug,Worm Pokémon,generation-i
+11,011_metapod.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/011_metapod.png,metapod,bug-type cocoon pokemon,bug,Cocoon Pokémon,generation-i
+12,012_butterfree.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/012_butterfree.png,butterfree,bug and flying-type butterfly pokemon,"bug, flying",Butterfly Pokémon,generation-i
+13,013_weedle.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/013_weedle.png,weedle,bug and poison-type hairy bug pokemon,"bug, poison",Hairy Bug Pokémon,generation-i
+14,014_kakuna.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/014_kakuna.png,kakuna,bug and poison-type cocoon pokemon,"bug, poison",Cocoon Pokémon,generation-i
+15,015_beedrill.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/015_beedrill.png,beedrill,bug and poison-type poison bee pokemon,"bug, poison",Poison Bee Pokémon,generation-i
+16,016_pidgey.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/016_pidgey.png,pidgey,normal and flying-type tiny bird pokemon,"normal, flying",Tiny Bird Pokémon,generation-i
+17,017_pidgeotto.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/017_pidgeotto.png,pidgeotto,normal and flying-type bird pokemon,"normal, flying",Bird Pokémon,generation-i
+18,018_pidgeot.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/018_pidgeot.png,pidgeot,normal and flying-type bird pokemon,"normal, flying",Bird Pokémon,generation-i
+19,019_rattata.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/019_rattata.png,rattata,normal-type mouse pokemon,normal,Mouse Pokémon,generation-i
+20,020_raticate.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/020_raticate.png,raticate,normal-type mouse pokemon,normal,Mouse Pokémon,generation-i
+21,021_spearow.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/021_spearow.png,spearow,normal and flying-type tiny bird pokemon,"normal, flying",Tiny Bird Pokémon,generation-i
+22,022_fearow.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/022_fearow.png,fearow,normal and flying-type beak pokemon,"normal, flying",Beak Pokémon,generation-i
+23,023_ekans.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/023_ekans.png,ekans,poison-type snake pokemon,poison,Snake Pokémon,generation-i
+24,024_arbok.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/024_arbok.png,arbok,poison-type cobra pokemon,poison,Cobra Pokémon,generation-i
+25,025_pikachu.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/025_pikachu.png,pikachu,electric-type mouse pokemon,electric,Mouse Pokémon,generation-i
+26,026_raichu.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/026_raichu.png,raichu,electric-type mouse pokemon,electric,Mouse Pokémon,generation-i
+27,027_sandshrew.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/027_sandshrew.png,sandshrew,ground-type mouse pokemon,ground,Mouse Pokémon,generation-i
+28,028_sandslash.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/028_sandslash.png,sandslash,ground-type mouse pokemon,ground,Mouse Pokémon,generation-i
+29,029_nidoran-f.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/029_nidoran-f.png,nidoran-f,poison-type poison pin pokemon,poison,Poison Pin Pokémon,generation-i
+30,030_nidorina.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/030_nidorina.png,nidorina,poison-type poison pin pokemon,poison,Poison Pin Pokémon,generation-i
+31,031_nidoqueen.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/031_nidoqueen.png,nidoqueen,poison and ground-type drill pokemon,"poison, ground",Drill Pokémon,generation-i
+32,032_nidoran-m.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/032_nidoran-m.png,nidoran-m,poison-type poison pin pokemon,poison,Poison Pin Pokémon,generation-i
+33,033_nidorino.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/033_nidorino.png,nidorino,poison-type poison pin pokemon,poison,Poison Pin Pokémon,generation-i
+34,034_nidoking.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/034_nidoking.png,nidoking,poison and ground-type drill pokemon,"poison, ground",Drill Pokémon,generation-i
+35,035_clefairy.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/035_clefairy.png,clefairy,fairy-type fairy pokemon,fairy,Fairy Pokémon,generation-i
+36,036_clefable.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/036_clefable.png,clefable,fairy-type fairy pokemon,fairy,Fairy Pokémon,generation-i
+37,037_vulpix.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/037_vulpix.png,vulpix,fire-type fox pokemon,fire,Fox Pokémon,generation-i
+38,038_ninetales.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/038_ninetales.png,ninetales,fire-type fox pokemon,fire,Fox Pokémon,generation-i
+39,039_jigglypuff.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/039_jigglypuff.png,jigglypuff,normal and fairy-type balloon pokemon,"normal, fairy",Balloon Pokémon,generation-i
+40,040_wigglytuff.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/040_wigglytuff.png,wigglytuff,normal and fairy-type balloon pokemon,"normal, fairy",Balloon Pokémon,generation-i
+41,041_zubat.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/041_zubat.png,zubat,poison and flying-type bat pokemon,"poison, flying",Bat Pokémon,generation-i
+42,042_golbat.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/042_golbat.png,golbat,poison and flying-type bat pokemon,"poison, flying",Bat Pokémon,generation-i
+43,043_oddish.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/043_oddish.png,oddish,grass and poison-type weed pokemon,"grass, poison",Weed Pokémon,generation-i
+44,044_gloom.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/044_gloom.png,gloom,grass and poison-type weed pokemon,"grass, poison",Weed Pokémon,generation-i
+45,045_vileplume.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/045_vileplume.png,vileplume,grass and poison-type flower pokemon,"grass, poison",Flower Pokémon,generation-i
+46,046_paras.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/046_paras.png,paras,bug and grass-type mushroom pokemon,"bug, grass",Mushroom Pokémon,generation-i
+47,047_parasect.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/047_parasect.png,parasect,bug and grass-type mushroom pokemon,"bug, grass",Mushroom Pokémon,generation-i
+48,048_venonat.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/048_venonat.png,venonat,bug and poison-type insect pokemon,"bug, poison",Insect Pokémon,generation-i
+49,049_venomoth.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/049_venomoth.png,venomoth,bug and poison-type poison moth pokemon,"bug, poison",Poison Moth Pokémon,generation-i
+50,050_diglett.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/050_diglett.png,diglett,ground-type mole pokemon,ground,Mole Pokémon,generation-i
+51,051_dugtrio.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/051_dugtrio.png,dugtrio,ground-type mole pokemon,ground,Mole Pokémon,generation-i
+52,052_meowth.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/052_meowth.png,meowth,normal-type scratch cat pokemon,normal,Scratch Cat Pokémon,generation-i
+53,053_persian.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/053_persian.png,persian,normal-type classy cat pokemon,normal,Classy Cat Pokémon,generation-i
+54,054_psyduck.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/054_psyduck.png,psyduck,water-type duck pokemon,water,Duck Pokémon,generation-i
+55,055_golduck.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/055_golduck.png,golduck,water-type duck pokemon,water,Duck Pokémon,generation-i
+56,056_mankey.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/056_mankey.png,mankey,fighting-type pig monkey pokemon,fighting,Pig Monkey Pokémon,generation-i
+57,057_primeape.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/057_primeape.png,primeape,fighting-type pig monkey pokemon,fighting,Pig Monkey Pokémon,generation-i
+58,058_growlithe.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/058_growlithe.png,growlithe,fire-type puppy pokemon,fire,Puppy Pokémon,generation-i
+59,059_arcanine.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/059_arcanine.png,arcanine,fire-type legendary pokemon,fire,Legendary Pokémon,generation-i
+60,060_poliwag.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/060_poliwag.png,poliwag,water-type tadpole pokemon,water,Tadpole Pokémon,generation-i
+61,061_poliwhirl.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/061_poliwhirl.png,poliwhirl,water-type tadpole pokemon,water,Tadpole Pokémon,generation-i
+62,062_poliwrath.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/062_poliwrath.png,poliwrath,water and fighting-type tadpole pokemon,"water, fighting",Tadpole Pokémon,generation-i
+63,063_abra.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/063_abra.png,abra,psychic-type psi pokemon,psychic,Psi Pokémon,generation-i
+64,064_kadabra.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/064_kadabra.png,kadabra,psychic-type psi pokemon,psychic,Psi Pokémon,generation-i
+65,065_alakazam.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/065_alakazam.png,alakazam,psychic-type psi pokemon,psychic,Psi Pokémon,generation-i
+66,066_machop.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/066_machop.png,machop,fighting-type superpower pokemon,fighting,Superpower Pokémon,generation-i
+67,067_machoke.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/067_machoke.png,machoke,fighting-type superpower pokemon,fighting,Superpower Pokémon,generation-i
+68,068_machamp.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/068_machamp.png,machamp,fighting-type superpower pokemon,fighting,Superpower Pokémon,generation-i
+69,069_bellsprout.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/069_bellsprout.png,bellsprout,grass and poison-type flower pokemon,"grass, poison",Flower Pokémon,generation-i
+70,070_weepinbell.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/070_weepinbell.png,weepinbell,grass and poison-type flycatcher pokemon,"grass, poison",Flycatcher Pokémon,generation-i
+71,071_victreebel.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/071_victreebel.png,victreebel,grass and poison-type flycatcher pokemon,"grass, poison",Flycatcher Pokémon,generation-i
+72,072_tentacool.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/072_tentacool.png,tentacool,water and poison-type jellyfish pokemon,"water, poison",Jellyfish Pokémon,generation-i
+73,073_tentacruel.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/073_tentacruel.png,tentacruel,water and poison-type jellyfish pokemon,"water, poison",Jellyfish Pokémon,generation-i
+74,074_geodude.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/074_geodude.png,geodude,rock and ground-type rock pokemon,"rock, ground",Rock Pokémon,generation-i
+75,075_graveler.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/075_graveler.png,graveler,rock and ground-type rock pokemon,"rock, ground",Rock Pokémon,generation-i
+76,076_golem.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/076_golem.png,golem,rock and ground-type megaton pokemon,"rock, ground",Megaton Pokémon,generation-i
+77,077_ponyta.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/077_ponyta.png,ponyta,fire-type fire horse pokemon,fire,Fire Horse Pokémon,generation-i
+78,078_rapidash.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/078_rapidash.png,rapidash,fire-type fire horse pokemon,fire,Fire Horse Pokémon,generation-i
+79,079_slowpoke.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/079_slowpoke.png,slowpoke,water and psychic-type dopey pokemon,"water, psychic",Dopey Pokémon,generation-i
+80,080_slowbro.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/080_slowbro.png,slowbro,water and psychic-type hermit crab pokemon,"water, psychic",Hermit Crab Pokémon,generation-i
+81,081_magnemite.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/081_magnemite.png,magnemite,electric and steel-type magnet pokemon,"electric, steel",Magnet Pokémon,generation-i
+82,082_magneton.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/082_magneton.png,magneton,electric and steel-type magnet pokemon,"electric, steel",Magnet Pokémon,generation-i
+83,083_farfetchd.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/083_farfetchd.png,farfetchd,normal and flying-type wild duck pokemon,"normal, flying",Wild Duck Pokémon,generation-i
+84,084_doduo.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/084_doduo.png,doduo,normal and flying-type twin bird pokemon,"normal, flying",Twin Bird Pokémon,generation-i
+85,085_dodrio.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/085_dodrio.png,dodrio,normal and flying-type triple bird pokemon,"normal, flying",Triple Bird Pokémon,generation-i
+86,086_seel.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/086_seel.png,seel,water-type sea lion pokemon,water,Sea Lion Pokémon,generation-i
+87,087_dewgong.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/087_dewgong.png,dewgong,water and ice-type sea lion pokemon,"water, ice",Sea Lion Pokémon,generation-i
+88,088_grimer.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/088_grimer.png,grimer,poison-type sludge pokemon,poison,Sludge Pokémon,generation-i
+89,089_muk.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/089_muk.png,muk,poison-type sludge pokemon,poison,Sludge Pokémon,generation-i
+90,090_shellder.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/090_shellder.png,shellder,water-type bivalve pokemon,water,Bivalve Pokémon,generation-i
+91,091_cloyster.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/091_cloyster.png,cloyster,water and ice-type bivalve pokemon,"water, ice",Bivalve Pokémon,generation-i
+92,092_gastly.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/092_gastly.png,gastly,ghost and poison-type gas pokemon,"ghost, poison",Gas Pokémon,generation-i
+93,093_haunter.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/093_haunter.png,haunter,ghost and poison-type gas pokemon,"ghost, poison",Gas Pokémon,generation-i
+94,094_gengar.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/094_gengar.png,gengar,ghost and poison-type shadow pokemon,"ghost, poison",Shadow Pokémon,generation-i
+95,095_onix.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/095_onix.png,onix,rock and ground-type rock snake pokemon,"rock, ground",Rock Snake Pokémon,generation-i
+96,096_drowzee.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/096_drowzee.png,drowzee,psychic-type hypnosis pokemon,psychic,Hypnosis Pokémon,generation-i
+97,097_hypno.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/097_hypno.png,hypno,psychic-type hypnosis pokemon,psychic,Hypnosis Pokémon,generation-i
+98,098_krabby.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/098_krabby.png,krabby,water-type river crab pokemon,water,River Crab Pokémon,generation-i
+99,099_kingler.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/099_kingler.png,kingler,water-type pincer pokemon,water,Pincer Pokémon,generation-i
+100,100_voltorb.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/100_voltorb.png,voltorb,electric-type ball pokemon,electric,Ball Pokémon,generation-i
+101,101_electrode.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/101_electrode.png,electrode,electric-type ball pokemon,electric,Ball Pokémon,generation-i
+102,102_exeggcute.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/102_exeggcute.png,exeggcute,grass and psychic-type egg pokemon,"grass, psychic",Egg Pokémon,generation-i
+103,103_exeggutor.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/103_exeggutor.png,exeggutor,grass and psychic-type coconut pokemon,"grass, psychic",Coconut Pokémon,generation-i
+104,104_cubone.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/104_cubone.png,cubone,ground-type lonely pokemon,ground,Lonely Pokémon,generation-i
+105,105_marowak.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/105_marowak.png,marowak,ground-type bone keeper pokemon,ground,Bone Keeper Pokémon,generation-i
+106,106_hitmonlee.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/106_hitmonlee.png,hitmonlee,fighting-type kicking pokemon,fighting,Kicking Pokémon,generation-i
+107,107_hitmonchan.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/107_hitmonchan.png,hitmonchan,fighting-type punching pokemon,fighting,Punching Pokémon,generation-i
+108,108_lickitung.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/108_lickitung.png,lickitung,normal-type licking pokemon,normal,Licking Pokémon,generation-i
+109,109_koffing.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/109_koffing.png,koffing,poison-type poison gas pokemon,poison,Poison Gas Pokémon,generation-i
+110,110_weezing.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/110_weezing.png,weezing,poison-type poison gas pokemon,poison,Poison Gas Pokémon,generation-i
+111,111_rhyhorn.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/111_rhyhorn.png,rhyhorn,ground and rock-type spikes pokemon,"ground, rock",Spikes Pokémon,generation-i
+112,112_rhydon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/112_rhydon.png,rhydon,ground and rock-type drill pokemon,"ground, rock",Drill Pokémon,generation-i
+113,113_chansey.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/113_chansey.png,chansey,normal-type egg pokemon,normal,Egg Pokémon,generation-i
+114,114_tangela.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/114_tangela.png,tangela,grass-type vine pokemon,grass,Vine Pokémon,generation-i
+115,115_kangaskhan.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/115_kangaskhan.png,kangaskhan,normal-type parent pokemon,normal,Parent Pokémon,generation-i
+116,116_horsea.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/116_horsea.png,horsea,water-type dragon pokemon,water,Dragon Pokémon,generation-i
+117,117_seadra.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/117_seadra.png,seadra,water-type dragon pokemon,water,Dragon Pokémon,generation-i
+118,118_goldeen.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/118_goldeen.png,goldeen,water-type goldfish pokemon,water,Goldfish Pokémon,generation-i
+119,119_seaking.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/119_seaking.png,seaking,water-type goldfish pokemon,water,Goldfish Pokémon,generation-i
+120,120_staryu.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/120_staryu.png,staryu,water-type star shape pokemon,water,Star Shape Pokémon,generation-i
+121,121_starmie.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/121_starmie.png,starmie,water and psychic-type mysterious pokemon,"water, psychic",Mysterious Pokémon,generation-i
+122,122_mr-mime.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/122_mr-mime.png,mr-mime,psychic and fairy-type barrier pokemon,"psychic, fairy",Barrier Pokémon,generation-i
+123,123_scyther.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/123_scyther.png,scyther,bug and flying-type mantis pokemon,"bug, flying",Mantis Pokémon,generation-i
+124,124_jynx.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/124_jynx.png,jynx,ice and psychic-type human shape pokemon,"ice, psychic",Human Shape Pokémon,generation-i
+125,125_electabuzz.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/125_electabuzz.png,electabuzz,electric-type electric pokemon,electric,Electric Pokémon,generation-i
+126,126_magmar.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/126_magmar.png,magmar,fire-type spitfire pokemon,fire,Spitfire Pokémon,generation-i
+127,127_pinsir.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/127_pinsir.png,pinsir,bug-type stag beetle pokemon,bug,Stag Beetle Pokémon,generation-i
+128,128_tauros.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/128_tauros.png,tauros,normal-type wild bull pokemon,normal,Wild Bull Pokémon,generation-i
+129,129_magikarp.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/129_magikarp.png,magikarp,water-type fish pokemon,water,Fish Pokémon,generation-i
+130,130_gyarados.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/130_gyarados.png,gyarados,water and flying-type atrocious pokemon,"water, flying",Atrocious Pokémon,generation-i
+131,131_lapras.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/131_lapras.png,lapras,water and ice-type transport pokemon,"water, ice",Transport Pokémon,generation-i
+132,132_ditto.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/132_ditto.png,ditto,normal-type transform pokemon,normal,Transform Pokémon,generation-i
+133,133_eevee.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/133_eevee.png,eevee,normal-type evolution pokemon,normal,Evolution Pokémon,generation-i
+134,134_vaporeon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/134_vaporeon.png,vaporeon,water-type bubble jet pokemon,water,Bubble Jet Pokémon,generation-i
+135,135_jolteon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/135_jolteon.png,jolteon,electric-type lightning pokemon,electric,Lightning Pokémon,generation-i
+136,136_flareon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/136_flareon.png,flareon,fire-type flame pokemon,fire,Flame Pokémon,generation-i
+137,137_porygon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/137_porygon.png,porygon,normal-type virtual pokemon,normal,Virtual Pokémon,generation-i
+138,138_omanyte.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/138_omanyte.png,omanyte,rock and water-type spiral pokemon,"rock, water",Spiral Pokémon,generation-i
+139,139_omastar.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/139_omastar.png,omastar,rock and water-type spiral pokemon,"rock, water",Spiral Pokémon,generation-i
+140,140_kabuto.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/140_kabuto.png,kabuto,rock and water-type shellfish pokemon,"rock, water",Shellfish Pokémon,generation-i
+141,141_kabutops.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/141_kabutops.png,kabutops,rock and water-type shellfish pokemon,"rock, water",Shellfish Pokémon,generation-i
+142,142_aerodactyl.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/142_aerodactyl.png,aerodactyl,rock and flying-type fossil pokemon,"rock, flying",Fossil Pokémon,generation-i
+143,143_snorlax.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/143_snorlax.png,snorlax,normal-type sleeping pokemon,normal,Sleeping Pokémon,generation-i
+144,144_articuno.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/144_articuno.png,articuno,ice and flying-type freeze pokemon,"ice, flying",Freeze Pokémon,generation-i
+145,145_zapdos.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/145_zapdos.png,zapdos,electric and flying-type electric pokemon,"electric, flying",Electric Pokémon,generation-i
+146,146_moltres.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/146_moltres.png,moltres,fire and flying-type flame pokemon,"fire, flying",Flame Pokémon,generation-i
+147,147_dratini.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/147_dratini.png,dratini,dragon-type dragon pokemon,dragon,Dragon Pokémon,generation-i
+148,148_dragonair.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/148_dragonair.png,dragonair,dragon-type dragon pokemon,dragon,Dragon Pokémon,generation-i
+149,149_dragonite.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/149_dragonite.png,dragonite,dragon and flying-type dragon pokemon,"dragon, flying",Dragon Pokémon,generation-i
+150,150_mewtwo.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/150_mewtwo.png,mewtwo,psychic-type genetic pokemon,psychic,Genetic Pokémon,generation-i
+151,151_mew.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/151_mew.png,mew,psychic-type new species pokemon,psychic,New Species Pokémon,generation-i
+152,152_chikorita.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/152_chikorita.png,chikorita,grass-type leaf pokemon,grass,Leaf Pokémon,generation-ii
+153,153_bayleef.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/153_bayleef.png,bayleef,grass-type leaf pokemon,grass,Leaf Pokémon,generation-ii
+154,154_meganium.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/154_meganium.png,meganium,grass-type herb pokemon,grass,Herb Pokémon,generation-ii
+155,155_cyndaquil.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/155_cyndaquil.png,cyndaquil,fire-type fire mouse pokemon,fire,Fire Mouse Pokémon,generation-ii
+156,156_quilava.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/156_quilava.png,quilava,fire-type volcano pokemon,fire,Volcano Pokémon,generation-ii
+157,157_typhlosion.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/157_typhlosion.png,typhlosion,fire-type volcano pokemon,fire,Volcano Pokémon,generation-ii
+158,158_totodile.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/158_totodile.png,totodile,water-type big jaw pokemon,water,Big Jaw Pokémon,generation-ii
+159,159_croconaw.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/159_croconaw.png,croconaw,water-type big jaw pokemon,water,Big Jaw Pokémon,generation-ii
+160,160_feraligatr.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/160_feraligatr.png,feraligatr,water-type big jaw pokemon,water,Big Jaw Pokémon,generation-ii
+161,161_sentret.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/161_sentret.png,sentret,normal-type scout pokemon,normal,Scout Pokémon,generation-ii
+162,162_furret.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/162_furret.png,furret,normal-type long body pokemon,normal,Long Body Pokémon,generation-ii
+163,163_hoothoot.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/163_hoothoot.png,hoothoot,normal and flying-type owl pokemon,"normal, flying",Owl Pokémon,generation-ii
+164,164_noctowl.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/164_noctowl.png,noctowl,normal and flying-type owl pokemon,"normal, flying",Owl Pokémon,generation-ii
+165,165_ledyba.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/165_ledyba.png,ledyba,bug and flying-type five star pokemon,"bug, flying",Five Star Pokémon,generation-ii
+166,166_ledian.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/166_ledian.png,ledian,bug and flying-type five star pokemon,"bug, flying",Five Star Pokémon,generation-ii
+167,167_spinarak.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/167_spinarak.png,spinarak,bug and poison-type string spit pokemon,"bug, poison",String Spit Pokémon,generation-ii
+168,168_ariados.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/168_ariados.png,ariados,bug and poison-type long leg pokemon,"bug, poison",Long Leg Pokémon,generation-ii
+169,169_crobat.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/169_crobat.png,crobat,poison and flying-type bat pokemon,"poison, flying",Bat Pokémon,generation-ii
+170,170_chinchou.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/170_chinchou.png,chinchou,water and electric-type angler pokemon,"water, electric",Angler Pokémon,generation-ii
+171,171_lanturn.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/171_lanturn.png,lanturn,water and electric-type light pokemon,"water, electric",Light Pokémon,generation-ii
+172,172_pichu.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/172_pichu.png,pichu,electric-type tiny mouse pokemon,electric,Tiny Mouse Pokémon,generation-ii
+173,173_cleffa.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/173_cleffa.png,cleffa,fairy-type star shape pokemon,fairy,Star Shape Pokémon,generation-ii
+174,174_igglybuff.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/174_igglybuff.png,igglybuff,normal and fairy-type balloon pokemon,"normal, fairy",Balloon Pokémon,generation-ii
+175,175_togepi.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/175_togepi.png,togepi,fairy-type spike ball pokemon,fairy,Spike Ball Pokémon,generation-ii
+176,176_togetic.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/176_togetic.png,togetic,fairy and flying-type happiness pokemon,"fairy, flying",Happiness Pokémon,generation-ii
+177,177_natu.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/177_natu.png,natu,psychic and flying-type tiny bird pokemon,"psychic, flying",Tiny Bird Pokémon,generation-ii
+178,178_xatu.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/178_xatu.png,xatu,psychic and flying-type mystic pokemon,"psychic, flying",Mystic Pokémon,generation-ii
+179,179_mareep.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/179_mareep.png,mareep,electric-type wool pokemon,electric,Wool Pokémon,generation-ii
+180,180_flaaffy.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/180_flaaffy.png,flaaffy,electric-type wool pokemon,electric,Wool Pokémon,generation-ii
+181,181_ampharos.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/181_ampharos.png,ampharos,electric-type light pokemon,electric,Light Pokémon,generation-ii
+182,182_bellossom.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/182_bellossom.png,bellossom,grass-type flower pokemon,grass,Flower Pokémon,generation-ii
+183,183_marill.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/183_marill.png,marill,water and fairy-type aqua mouse pokemon,"water, fairy",Aqua Mouse Pokémon,generation-ii
+184,184_azumarill.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/184_azumarill.png,azumarill,water and fairy-type aqua rabbit pokemon,"water, fairy",Aqua Rabbit Pokémon,generation-ii
+185,185_sudowoodo.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/185_sudowoodo.png,sudowoodo,rock-type imitation pokemon,rock,Imitation Pokémon,generation-ii
+186,186_politoed.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/186_politoed.png,politoed,water-type frog pokemon,water,Frog Pokémon,generation-ii
+187,187_hoppip.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/187_hoppip.png,hoppip,grass and flying-type cottonweed pokemon,"grass, flying",Cottonweed Pokémon,generation-ii
+188,188_skiploom.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/188_skiploom.png,skiploom,grass and flying-type cottonweed pokemon,"grass, flying",Cottonweed Pokémon,generation-ii
+189,189_jumpluff.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/189_jumpluff.png,jumpluff,grass and flying-type cottonweed pokemon,"grass, flying",Cottonweed Pokémon,generation-ii
+190,190_aipom.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/190_aipom.png,aipom,normal-type long tail pokemon,normal,Long Tail Pokémon,generation-ii
+191,191_sunkern.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/191_sunkern.png,sunkern,grass-type seed pokemon,grass,Seed Pokémon,generation-ii
+192,192_sunflora.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/192_sunflora.png,sunflora,grass-type sun pokemon,grass,Sun Pokémon,generation-ii
+193,193_yanma.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/193_yanma.png,yanma,bug and flying-type clear wing pokemon,"bug, flying",Clear Wing Pokémon,generation-ii
+194,194_wooper.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/194_wooper.png,wooper,water and ground-type water fish pokemon,"water, ground",Water Fish Pokémon,generation-ii
+195,195_quagsire.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/195_quagsire.png,quagsire,water and ground-type water fish pokemon,"water, ground",Water Fish Pokémon,generation-ii
+196,196_espeon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/196_espeon.png,espeon,psychic-type sun pokemon,psychic,Sun Pokémon,generation-ii
+197,197_umbreon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/197_umbreon.png,umbreon,dark-type moonlight pokemon,dark,Moonlight Pokémon,generation-ii
+198,198_murkrow.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/198_murkrow.png,murkrow,dark and flying-type darkness pokemon,"dark, flying",Darkness Pokémon,generation-ii
+199,199_slowking.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/199_slowking.png,slowking,water and psychic-type royal pokemon,"water, psychic",Royal Pokémon,generation-ii
+200,200_misdreavus.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/200_misdreavus.png,misdreavus,ghost-type screech pokemon,ghost,Screech Pokémon,generation-ii
+201,201_unown.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/201_unown.png,unown,psychic-type symbol pokemon,psychic,Symbol Pokémon,generation-ii
+202,202_wobbuffet.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/202_wobbuffet.png,wobbuffet,psychic-type patient pokemon,psychic,Patient Pokémon,generation-ii
+203,203_girafarig.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/203_girafarig.png,girafarig,normal and psychic-type long neck pokemon,"normal, psychic",Long Neck Pokémon,generation-ii
+204,204_pineco.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/204_pineco.png,pineco,bug-type bagworm pokemon,bug,Bagworm Pokémon,generation-ii
+205,205_forretress.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/205_forretress.png,forretress,bug and steel-type bagworm pokemon,"bug, steel",Bagworm Pokémon,generation-ii
+206,206_dunsparce.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/206_dunsparce.png,dunsparce,normal-type land snake pokemon,normal,Land Snake Pokémon,generation-ii
+207,207_gligar.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/207_gligar.png,gligar,ground and flying-type fly scorpion pokemon,"ground, flying",Fly Scorpion Pokémon,generation-ii
+208,208_steelix.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/208_steelix.png,steelix,steel and ground-type iron snake pokemon,"steel, ground",Iron Snake Pokémon,generation-ii
+209,209_snubbull.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/209_snubbull.png,snubbull,fairy-type fairy pokemon,fairy,Fairy Pokémon,generation-ii
+210,210_granbull.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/210_granbull.png,granbull,fairy-type fairy pokemon,fairy,Fairy Pokémon,generation-ii
+211,211_qwilfish.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/211_qwilfish.png,qwilfish,water and poison-type balloon pokemon,"water, poison",Balloon Pokémon,generation-ii
+212,212_scizor.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/212_scizor.png,scizor,bug and steel-type pincer pokemon,"bug, steel",Pincer Pokémon,generation-ii
+213,213_shuckle.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/213_shuckle.png,shuckle,bug and rock-type mold pokemon,"bug, rock",Mold Pokémon,generation-ii
+214,214_heracross.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/214_heracross.png,heracross,bug and fighting-type single horn pokemon,"bug, fighting",Single Horn Pokémon,generation-ii
+215,215_sneasel.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/215_sneasel.png,sneasel,dark and ice-type sharp claw pokemon,"dark, ice",Sharp Claw Pokémon,generation-ii
+216,216_teddiursa.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/216_teddiursa.png,teddiursa,normal-type little bear pokemon,normal,Little Bear Pokémon,generation-ii
+217,217_ursaring.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/217_ursaring.png,ursaring,normal-type hibernator pokemon,normal,Hibernator Pokémon,generation-ii
+218,218_slugma.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/218_slugma.png,slugma,fire-type lava pokemon,fire,Lava Pokémon,generation-ii
+219,219_magcargo.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/219_magcargo.png,magcargo,fire and rock-type lava pokemon,"fire, rock",Lava Pokémon,generation-ii
+220,220_swinub.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/220_swinub.png,swinub,ice and ground-type pig pokemon,"ice, ground",Pig Pokémon,generation-ii
+221,221_piloswine.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/221_piloswine.png,piloswine,ice and ground-type swine pokemon,"ice, ground",Swine Pokémon,generation-ii
+222,222_corsola.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/222_corsola.png,corsola,water and rock-type coral pokemon,"water, rock",Coral Pokémon,generation-ii
+223,223_remoraid.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/223_remoraid.png,remoraid,water-type jet pokemon,water,Jet Pokémon,generation-ii
+224,224_octillery.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/224_octillery.png,octillery,water-type jet pokemon,water,Jet Pokémon,generation-ii
+225,225_delibird.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/225_delibird.png,delibird,ice and flying-type delivery pokemon,"ice, flying",Delivery Pokémon,generation-ii
+226,226_mantine.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/226_mantine.png,mantine,water and flying-type kite pokemon,"water, flying",Kite Pokémon,generation-ii
+227,227_skarmory.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/227_skarmory.png,skarmory,steel and flying-type armor bird pokemon,"steel, flying",Armor Bird Pokémon,generation-ii
+228,228_houndour.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/228_houndour.png,houndour,dark and fire-type dark pokemon,"dark, fire",Dark Pokémon,generation-ii
+229,229_houndoom.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/229_houndoom.png,houndoom,dark and fire-type dark pokemon,"dark, fire",Dark Pokémon,generation-ii
+230,230_kingdra.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/230_kingdra.png,kingdra,water and dragon-type dragon pokemon,"water, dragon",Dragon Pokémon,generation-ii
+231,231_phanpy.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/231_phanpy.png,phanpy,ground-type long nose pokemon,ground,Long Nose Pokémon,generation-ii
+232,232_donphan.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/232_donphan.png,donphan,ground-type armor pokemon,ground,Armor Pokémon,generation-ii
+233,233_porygon2.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/233_porygon2.png,porygon2,normal-type virtual pokemon,normal,Virtual Pokémon,generation-ii
+234,234_stantler.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/234_stantler.png,stantler,normal-type big horn pokemon,normal,Big Horn Pokémon,generation-ii
+235,235_smeargle.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/235_smeargle.png,smeargle,normal-type painter pokemon,normal,Painter Pokémon,generation-ii
+236,236_tyrogue.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/236_tyrogue.png,tyrogue,fighting-type scuffle pokemon,fighting,Scuffle Pokémon,generation-ii
+237,237_hitmontop.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/237_hitmontop.png,hitmontop,fighting-type handstand pokemon,fighting,Handstand Pokémon,generation-ii
+238,238_smoochum.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/238_smoochum.png,smoochum,ice and psychic-type kiss pokemon,"ice, psychic",Kiss Pokémon,generation-ii
+239,239_elekid.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/239_elekid.png,elekid,electric-type electric pokemon,electric,Electric Pokémon,generation-ii
+240,240_magby.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/240_magby.png,magby,fire-type live coal pokemon,fire,Live Coal Pokémon,generation-ii
+241,241_miltank.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/241_miltank.png,miltank,normal-type milk cow pokemon,normal,Milk Cow Pokémon,generation-ii
+242,242_blissey.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/242_blissey.png,blissey,normal-type happiness pokemon,normal,Happiness Pokémon,generation-ii
+243,243_raikou.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/243_raikou.png,raikou,electric-type thunder pokemon,electric,Thunder Pokémon,generation-ii
+244,244_entei.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/244_entei.png,entei,fire-type volcano pokemon,fire,Volcano Pokémon,generation-ii
+245,245_suicune.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/245_suicune.png,suicune,water-type aurora pokemon,water,Aurora Pokémon,generation-ii
+246,246_larvitar.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/246_larvitar.png,larvitar,rock and ground-type rock skin pokemon,"rock, ground",Rock Skin Pokémon,generation-ii
+247,247_pupitar.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/247_pupitar.png,pupitar,rock and ground-type hard shell pokemon,"rock, ground",Hard Shell Pokémon,generation-ii
+248,248_tyranitar.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/248_tyranitar.png,tyranitar,rock and dark-type armor pokemon,"rock, dark",Armor Pokémon,generation-ii
+249,249_lugia.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/249_lugia.png,lugia,psychic and flying-type diving pokemon,"psychic, flying",Diving Pokémon,generation-ii
+250,250_ho-oh.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/250_ho-oh.png,ho-oh,fire and flying-type rainbow pokemon,"fire, flying",Rainbow Pokémon,generation-ii
+251,251_celebi.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/251_celebi.png,celebi,psychic and grass-type time travel pokemon,"psychic, grass",Time Travel Pokémon,generation-ii
+252,252_treecko.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/252_treecko.png,treecko,grass-type wood gecko pokemon,grass,Wood Gecko Pokémon,generation-iii
+253,253_grovyle.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/253_grovyle.png,grovyle,grass-type wood gecko pokemon,grass,Wood Gecko Pokémon,generation-iii
+254,254_sceptile.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/254_sceptile.png,sceptile,grass-type forest pokemon,grass,Forest Pokémon,generation-iii
+255,255_torchic.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/255_torchic.png,torchic,fire-type chick pokemon,fire,Chick Pokémon,generation-iii
+256,256_combusken.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/256_combusken.png,combusken,fire and fighting-type young fowl pokemon,"fire, fighting",Young Fowl Pokémon,generation-iii
+257,257_blaziken.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/257_blaziken.png,blaziken,fire and fighting-type blaze pokemon,"fire, fighting",Blaze Pokémon,generation-iii
+258,258_mudkip.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/258_mudkip.png,mudkip,water-type mud fish pokemon,water,Mud Fish Pokémon,generation-iii
+259,259_marshtomp.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/259_marshtomp.png,marshtomp,water and ground-type mud fish pokemon,"water, ground",Mud Fish Pokémon,generation-iii
+260,260_swampert.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/260_swampert.png,swampert,water and ground-type mud fish pokemon,"water, ground",Mud Fish Pokémon,generation-iii
+261,261_poochyena.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/261_poochyena.png,poochyena,dark-type bite pokemon,dark,Bite Pokémon,generation-iii
+262,262_mightyena.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/262_mightyena.png,mightyena,dark-type bite pokemon,dark,Bite Pokémon,generation-iii
+263,263_zigzagoon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/263_zigzagoon.png,zigzagoon,normal-type tiny raccoon pokemon,normal,Tiny Raccoon Pokémon,generation-iii
+264,264_linoone.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/264_linoone.png,linoone,normal-type rushing pokemon,normal,Rushing Pokémon,generation-iii
+265,265_wurmple.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/265_wurmple.png,wurmple,bug-type worm pokemon,bug,Worm Pokémon,generation-iii
+266,266_silcoon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/266_silcoon.png,silcoon,bug-type cocoon pokemon,bug,Cocoon Pokémon,generation-iii
+267,267_beautifly.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/267_beautifly.png,beautifly,bug and flying-type butterfly pokemon,"bug, flying",Butterfly Pokémon,generation-iii
+268,268_cascoon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/268_cascoon.png,cascoon,bug-type cocoon pokemon,bug,Cocoon Pokémon,generation-iii
+269,269_dustox.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/269_dustox.png,dustox,bug and poison-type poison moth pokemon,"bug, poison",Poison Moth Pokémon,generation-iii
+270,270_lotad.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/270_lotad.png,lotad,water and grass-type water weed pokemon,"water, grass",Water Weed Pokémon,generation-iii
+271,271_lombre.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/271_lombre.png,lombre,water and grass-type jolly pokemon,"water, grass",Jolly Pokémon,generation-iii
+272,272_ludicolo.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/272_ludicolo.png,ludicolo,water and grass-type carefree pokemon,"water, grass",Carefree Pokémon,generation-iii
+273,273_seedot.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/273_seedot.png,seedot,grass-type acorn pokemon,grass,Acorn Pokémon,generation-iii
+274,274_nuzleaf.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/274_nuzleaf.png,nuzleaf,grass and dark-type wily pokemon,"grass, dark",Wily Pokémon,generation-iii
+275,275_shiftry.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/275_shiftry.png,shiftry,grass and dark-type wicked pokemon,"grass, dark",Wicked Pokémon,generation-iii
+276,276_taillow.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/276_taillow.png,taillow,normal and flying-type tiny swallow pokemon,"normal, flying",Tiny Swallow Pokémon,generation-iii
+277,277_swellow.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/277_swellow.png,swellow,normal and flying-type swallow pokemon,"normal, flying",Swallow Pokémon,generation-iii
+278,278_wingull.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/278_wingull.png,wingull,water and flying-type seagull pokemon,"water, flying",Seagull Pokémon,generation-iii
+279,279_pelipper.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/279_pelipper.png,pelipper,water and flying-type water bird pokemon,"water, flying",Water Bird Pokémon,generation-iii
+280,280_ralts.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/280_ralts.png,ralts,psychic and fairy-type feeling pokemon,"psychic, fairy",Feeling Pokémon,generation-iii
+281,281_kirlia.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/281_kirlia.png,kirlia,psychic and fairy-type emotion pokemon,"psychic, fairy",Emotion Pokémon,generation-iii
+282,282_gardevoir.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/282_gardevoir.png,gardevoir,psychic and fairy-type embrace pokemon,"psychic, fairy",Embrace Pokémon,generation-iii
+283,283_surskit.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/283_surskit.png,surskit,bug and water-type pond skater pokemon,"bug, water",Pond Skater Pokémon,generation-iii
+284,284_masquerain.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/284_masquerain.png,masquerain,bug and flying-type eyeball pokemon,"bug, flying",Eyeball Pokémon,generation-iii
+285,285_shroomish.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/285_shroomish.png,shroomish,grass-type mushroom pokemon,grass,Mushroom Pokémon,generation-iii
+286,286_breloom.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/286_breloom.png,breloom,grass and fighting-type mushroom pokemon,"grass, fighting",Mushroom Pokémon,generation-iii
+287,287_slakoth.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/287_slakoth.png,slakoth,normal-type slacker pokemon,normal,Slacker Pokémon,generation-iii
+288,288_vigoroth.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/288_vigoroth.png,vigoroth,normal-type wild monkey pokemon,normal,Wild Monkey Pokémon,generation-iii
+289,289_slaking.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/289_slaking.png,slaking,normal-type lazy pokemon,normal,Lazy Pokémon,generation-iii
+290,290_nincada.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/290_nincada.png,nincada,bug and ground-type trainee pokemon,"bug, ground",Trainee Pokémon,generation-iii
+291,291_ninjask.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/291_ninjask.png,ninjask,bug and flying-type ninja pokemon,"bug, flying",Ninja Pokémon,generation-iii
+292,292_shedinja.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/292_shedinja.png,shedinja,bug and ghost-type shed pokemon,"bug, ghost",Shed Pokémon,generation-iii
+293,293_whismur.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/293_whismur.png,whismur,normal-type whisper pokemon,normal,Whisper Pokémon,generation-iii
+294,294_loudred.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/294_loudred.png,loudred,normal-type big voice pokemon,normal,Big Voice Pokémon,generation-iii
+295,295_exploud.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/295_exploud.png,exploud,normal-type loud noise pokemon,normal,Loud Noise Pokémon,generation-iii
+296,296_makuhita.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/296_makuhita.png,makuhita,fighting-type guts pokemon,fighting,Guts Pokémon,generation-iii
+297,297_hariyama.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/297_hariyama.png,hariyama,fighting-type arm thrust pokemon,fighting,Arm Thrust Pokémon,generation-iii
+298,298_azurill.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/298_azurill.png,azurill,normal and fairy-type polka dot pokemon,"normal, fairy",Polka Dot Pokémon,generation-iii
+299,299_nosepass.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/299_nosepass.png,nosepass,rock-type compass pokemon,rock,Compass Pokémon,generation-iii
+300,300_skitty.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/300_skitty.png,skitty,normal-type kitten pokemon,normal,Kitten Pokémon,generation-iii
+301,301_delcatty.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/301_delcatty.png,delcatty,normal-type prim pokemon,normal,Prim Pokémon,generation-iii
+302,302_sableye.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/302_sableye.png,sableye,dark and ghost-type darkness pokemon,"dark, ghost",Darkness Pokémon,generation-iii
+303,303_mawile.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/303_mawile.png,mawile,steel and fairy-type deceiver pokemon,"steel, fairy",Deceiver Pokémon,generation-iii
+304,304_aron.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/304_aron.png,aron,steel and rock-type iron armor pokemon,"steel, rock",Iron Armor Pokémon,generation-iii
+305,305_lairon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/305_lairon.png,lairon,steel and rock-type iron armor pokemon,"steel, rock",Iron Armor Pokémon,generation-iii
+306,306_aggron.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/306_aggron.png,aggron,steel and rock-type iron armor pokemon,"steel, rock",Iron Armor Pokémon,generation-iii
+307,307_meditite.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/307_meditite.png,meditite,fighting and psychic-type meditate pokemon,"fighting, psychic",Meditate Pokémon,generation-iii
+308,308_medicham.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/308_medicham.png,medicham,fighting and psychic-type meditate pokemon,"fighting, psychic",Meditate Pokémon,generation-iii
+309,309_electrike.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/309_electrike.png,electrike,electric-type lightning pokemon,electric,Lightning Pokémon,generation-iii
+310,310_manectric.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/310_manectric.png,manectric,electric-type discharge pokemon,electric,Discharge Pokémon,generation-iii
+311,311_plusle.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/311_plusle.png,plusle,electric-type cheering pokemon,electric,Cheering Pokémon,generation-iii
+312,312_minun.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/312_minun.png,minun,electric-type cheering pokemon,electric,Cheering Pokémon,generation-iii
+313,313_volbeat.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/313_volbeat.png,volbeat,bug-type firefly pokemon,bug,Firefly Pokémon,generation-iii
+314,314_illumise.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/314_illumise.png,illumise,bug-type firefly pokemon,bug,Firefly Pokémon,generation-iii
+315,315_roselia.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/315_roselia.png,roselia,grass and poison-type thorn pokemon,"grass, poison",Thorn Pokémon,generation-iii
+316,316_gulpin.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/316_gulpin.png,gulpin,poison-type stomach pokemon,poison,Stomach Pokémon,generation-iii
+317,317_swalot.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/317_swalot.png,swalot,poison-type poison bag pokemon,poison,Poison Bag Pokémon,generation-iii
+318,318_carvanha.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/318_carvanha.png,carvanha,water and dark-type savage pokemon,"water, dark",Savage Pokémon,generation-iii
+319,319_sharpedo.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/319_sharpedo.png,sharpedo,water and dark-type brutal pokemon,"water, dark",Brutal Pokémon,generation-iii
+320,320_wailmer.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/320_wailmer.png,wailmer,water-type ball whale pokemon,water,Ball Whale Pokémon,generation-iii
+321,321_wailord.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/321_wailord.png,wailord,water-type float whale pokemon,water,Float Whale Pokémon,generation-iii
+322,322_numel.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/322_numel.png,numel,fire and ground-type numb pokemon,"fire, ground",Numb Pokémon,generation-iii
+323,323_camerupt.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/323_camerupt.png,camerupt,fire and ground-type eruption pokemon,"fire, ground",Eruption Pokémon,generation-iii
+324,324_torkoal.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/324_torkoal.png,torkoal,fire-type coal pokemon,fire,Coal Pokémon,generation-iii
+325,325_spoink.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/325_spoink.png,spoink,psychic-type bounce pokemon,psychic,Bounce Pokémon,generation-iii
+326,326_grumpig.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/326_grumpig.png,grumpig,psychic-type manipulate pokemon,psychic,Manipulate Pokémon,generation-iii
+327,327_spinda.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/327_spinda.png,spinda,normal-type spot panda pokemon,normal,Spot Panda Pokémon,generation-iii
+328,328_trapinch.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/328_trapinch.png,trapinch,ground-type ant pit pokemon,ground,Ant Pit Pokémon,generation-iii
+329,329_vibrava.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/329_vibrava.png,vibrava,ground and dragon-type vibration pokemon,"ground, dragon",Vibration Pokémon,generation-iii
+330,330_flygon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/330_flygon.png,flygon,ground and dragon-type mystic pokemon,"ground, dragon",Mystic Pokémon,generation-iii
+331,331_cacnea.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/331_cacnea.png,cacnea,grass-type cactus pokemon,grass,Cactus Pokémon,generation-iii
+332,332_cacturne.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/332_cacturne.png,cacturne,grass and dark-type scarecrow pokemon,"grass, dark",Scarecrow Pokémon,generation-iii
+333,333_swablu.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/333_swablu.png,swablu,normal and flying-type cotton bird pokemon,"normal, flying",Cotton Bird Pokémon,generation-iii
+334,334_altaria.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/334_altaria.png,altaria,dragon and flying-type humming pokemon,"dragon, flying",Humming Pokémon,generation-iii
+335,335_zangoose.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/335_zangoose.png,zangoose,normal-type cat ferret pokemon,normal,Cat Ferret Pokémon,generation-iii
+336,336_seviper.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/336_seviper.png,seviper,poison-type fang snake pokemon,poison,Fang Snake Pokémon,generation-iii
+337,337_lunatone.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/337_lunatone.png,lunatone,rock and psychic-type meteorite pokemon,"rock, psychic",Meteorite Pokémon,generation-iii
+338,338_solrock.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/338_solrock.png,solrock,rock and psychic-type meteorite pokemon,"rock, psychic",Meteorite Pokémon,generation-iii
+339,339_barboach.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/339_barboach.png,barboach,water and ground-type whiskers pokemon,"water, ground",Whiskers Pokémon,generation-iii
+340,340_whiscash.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/340_whiscash.png,whiscash,water and ground-type whiskers pokemon,"water, ground",Whiskers Pokémon,generation-iii
+341,341_corphish.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/341_corphish.png,corphish,water-type ruffian pokemon,water,Ruffian Pokémon,generation-iii
+342,342_crawdaunt.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/342_crawdaunt.png,crawdaunt,water and dark-type rogue pokemon,"water, dark",Rogue Pokémon,generation-iii
+343,343_baltoy.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/343_baltoy.png,baltoy,ground and psychic-type clay doll pokemon,"ground, psychic",Clay Doll Pokémon,generation-iii
+344,344_claydol.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/344_claydol.png,claydol,ground and psychic-type clay doll pokemon,"ground, psychic",Clay Doll Pokémon,generation-iii
+345,345_lileep.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/345_lileep.png,lileep,rock and grass-type sea lily pokemon,"rock, grass",Sea Lily Pokémon,generation-iii
+346,346_cradily.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/346_cradily.png,cradily,rock and grass-type barnacle pokemon,"rock, grass",Barnacle Pokémon,generation-iii
+347,347_anorith.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/347_anorith.png,anorith,rock and bug-type old shrimp pokemon,"rock, bug",Old Shrimp Pokémon,generation-iii
+348,348_armaldo.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/348_armaldo.png,armaldo,rock and bug-type plate pokemon,"rock, bug",Plate Pokémon,generation-iii
+349,349_feebas.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/349_feebas.png,feebas,water-type fish pokemon,water,Fish Pokémon,generation-iii
+350,350_milotic.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/350_milotic.png,milotic,water-type tender pokemon,water,Tender Pokémon,generation-iii
+351,351_castform.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/351_castform.png,castform,normal-type weather pokemon,normal,Weather Pokémon,generation-iii
+352,352_kecleon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/352_kecleon.png,kecleon,normal-type color swap pokemon,normal,Color Swap Pokémon,generation-iii
+353,353_shuppet.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/353_shuppet.png,shuppet,ghost-type puppet pokemon,ghost,Puppet Pokémon,generation-iii
+354,354_banette.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/354_banette.png,banette,ghost-type marionette pokemon,ghost,Marionette Pokémon,generation-iii
+355,355_duskull.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/355_duskull.png,duskull,ghost-type requiem pokemon,ghost,Requiem Pokémon,generation-iii
+356,356_dusclops.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/356_dusclops.png,dusclops,ghost-type beckon pokemon,ghost,Beckon Pokémon,generation-iii
+357,357_tropius.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/357_tropius.png,tropius,grass and flying-type fruit pokemon,"grass, flying",Fruit Pokémon,generation-iii
+358,358_chimecho.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/358_chimecho.png,chimecho,psychic-type wind chime pokemon,psychic,Wind Chime Pokémon,generation-iii
+359,359_absol.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/359_absol.png,absol,dark-type disaster pokemon,dark,Disaster Pokémon,generation-iii
+360,360_wynaut.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/360_wynaut.png,wynaut,psychic-type bright pokemon,psychic,Bright Pokémon,generation-iii
+361,361_snorunt.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/361_snorunt.png,snorunt,ice-type snow hat pokemon,ice,Snow Hat Pokémon,generation-iii
+362,362_glalie.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/362_glalie.png,glalie,ice-type face pokemon,ice,Face Pokémon,generation-iii
+363,363_spheal.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/363_spheal.png,spheal,ice and water-type clap pokemon,"ice, water",Clap Pokémon,generation-iii
+364,364_sealeo.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/364_sealeo.png,sealeo,ice and water-type ball roll pokemon,"ice, water",Ball Roll Pokémon,generation-iii
+365,365_walrein.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/365_walrein.png,walrein,ice and water-type ice break pokemon,"ice, water",Ice Break Pokémon,generation-iii
+366,366_clamperl.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/366_clamperl.png,clamperl,water-type bivalve pokemon,water,Bivalve Pokémon,generation-iii
+367,367_huntail.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/367_huntail.png,huntail,water-type deep sea pokemon,water,Deep Sea Pokémon,generation-iii
+368,368_gorebyss.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/368_gorebyss.png,gorebyss,water-type south sea pokemon,water,South Sea Pokémon,generation-iii
+369,369_relicanth.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/369_relicanth.png,relicanth,water and rock-type longevity pokemon,"water, rock",Longevity Pokémon,generation-iii
+370,370_luvdisc.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/370_luvdisc.png,luvdisc,water-type rendezvous pokemon,water,Rendezvous Pokémon,generation-iii
+371,371_bagon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/371_bagon.png,bagon,dragon-type rock head pokemon,dragon,Rock Head Pokémon,generation-iii
+372,372_shelgon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/372_shelgon.png,shelgon,dragon-type endurance pokemon,dragon,Endurance Pokémon,generation-iii
+373,373_salamence.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/373_salamence.png,salamence,dragon and flying-type dragon pokemon,"dragon, flying",Dragon Pokémon,generation-iii
+374,374_beldum.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/374_beldum.png,beldum,steel and psychic-type iron ball pokemon,"steel, psychic",Iron Ball Pokémon,generation-iii
+375,375_metang.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/375_metang.png,metang,steel and psychic-type iron claw pokemon,"steel, psychic",Iron Claw Pokémon,generation-iii
+376,376_metagross.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/376_metagross.png,metagross,steel and psychic-type iron leg pokemon,"steel, psychic",Iron Leg Pokémon,generation-iii
+377,377_regirock.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/377_regirock.png,regirock,rock-type rock peak pokemon,rock,Rock Peak Pokémon,generation-iii
+378,378_regice.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/378_regice.png,regice,ice-type iceberg pokemon,ice,Iceberg Pokémon,generation-iii
+379,379_registeel.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/379_registeel.png,registeel,steel-type iron pokemon,steel,Iron Pokémon,generation-iii
+380,380_latias.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/380_latias.png,latias,dragon and psychic-type eon pokemon,"dragon, psychic",Eon Pokémon,generation-iii
+381,381_latios.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/381_latios.png,latios,dragon and psychic-type eon pokemon,"dragon, psychic",Eon Pokémon,generation-iii
+382,382_kyogre.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/382_kyogre.png,kyogre,water-type sea basin pokemon,water,Sea Basin Pokémon,generation-iii
+383,383_groudon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/383_groudon.png,groudon,ground-type continent pokemon,ground,Continent Pokémon,generation-iii
+384,384_rayquaza.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/384_rayquaza.png,rayquaza,dragon and flying-type sky high pokemon,"dragon, flying",Sky High Pokémon,generation-iii
+385,385_jirachi.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/385_jirachi.png,jirachi,steel and psychic-type wish pokemon,"steel, psychic",Wish Pokémon,generation-iii
+386,386_deoxys-normal.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/386_deoxys-normal.png,deoxys-normal,psychic-type dna pokemon,psychic,DNA Pokémon,generation-iii
+387,387_turtwig.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/387_turtwig.png,turtwig,grass-type tiny leaf pokemon,grass,Tiny Leaf Pokémon,generation-iv
+388,388_grotle.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/388_grotle.png,grotle,grass-type grove pokemon,grass,Grove Pokémon,generation-iv
+389,389_torterra.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/389_torterra.png,torterra,grass and ground-type continent pokemon,"grass, ground",Continent Pokémon,generation-iv
+390,390_chimchar.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/390_chimchar.png,chimchar,fire-type chimp pokemon,fire,Chimp Pokémon,generation-iv
+391,391_monferno.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/391_monferno.png,monferno,fire and fighting-type playful pokemon,"fire, fighting",Playful Pokémon,generation-iv
+392,392_infernape.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/392_infernape.png,infernape,fire and fighting-type flame pokemon,"fire, fighting",Flame Pokémon,generation-iv
+393,393_piplup.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/393_piplup.png,piplup,water-type penguin pokemon,water,Penguin Pokémon,generation-iv
+394,394_prinplup.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/394_prinplup.png,prinplup,water-type penguin pokemon,water,Penguin Pokémon,generation-iv
+395,395_empoleon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/395_empoleon.png,empoleon,water and steel-type emperor pokemon,"water, steel",Emperor Pokémon,generation-iv
+396,396_starly.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/396_starly.png,starly,normal and flying-type starling pokemon,"normal, flying",Starling Pokémon,generation-iv
+397,397_staravia.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/397_staravia.png,staravia,normal and flying-type starling pokemon,"normal, flying",Starling Pokémon,generation-iv
+398,398_staraptor.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/398_staraptor.png,staraptor,normal and flying-type predator pokemon,"normal, flying",Predator Pokémon,generation-iv
+399,399_bidoof.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/399_bidoof.png,bidoof,normal-type plump mouse pokemon,normal,Plump Mouse Pokémon,generation-iv
+400,400_bibarel.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/400_bibarel.png,bibarel,normal and water-type beaver pokemon,"normal, water",Beaver Pokémon,generation-iv
+401,401_kricketot.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/401_kricketot.png,kricketot,bug-type cricket pokemon,bug,Cricket Pokémon,generation-iv
+402,402_kricketune.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/402_kricketune.png,kricketune,bug-type cricket pokemon,bug,Cricket Pokémon,generation-iv
+403,403_shinx.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/403_shinx.png,shinx,electric-type flash pokemon,electric,Flash Pokémon,generation-iv
+404,404_luxio.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/404_luxio.png,luxio,electric-type spark pokemon,electric,Spark Pokémon,generation-iv
+405,405_luxray.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/405_luxray.png,luxray,electric-type gleam eyes pokemon,electric,Gleam Eyes Pokémon,generation-iv
+406,406_budew.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/406_budew.png,budew,grass and poison-type bud pokemon,"grass, poison",Bud Pokémon,generation-iv
+407,407_roserade.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/407_roserade.png,roserade,grass and poison-type bouquet pokemon,"grass, poison",Bouquet Pokémon,generation-iv
+408,408_cranidos.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/408_cranidos.png,cranidos,rock-type head butt pokemon,rock,Head Butt Pokémon,generation-iv
+409,409_rampardos.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/409_rampardos.png,rampardos,rock-type head butt pokemon,rock,Head Butt Pokémon,generation-iv
+410,410_shieldon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/410_shieldon.png,shieldon,rock and steel-type shield pokemon,"rock, steel",Shield Pokémon,generation-iv
+411,411_bastiodon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/411_bastiodon.png,bastiodon,rock and steel-type shield pokemon,"rock, steel",Shield Pokémon,generation-iv
+412,412_burmy.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/412_burmy.png,burmy,bug-type bagworm pokemon,bug,Bagworm Pokémon,generation-iv
+413,413_wormadam-plant.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/413_wormadam-plant.png,wormadam-plant,bug and grass-type bagworm pokemon,"bug, grass",Bagworm Pokémon,generation-iv
+414,414_mothim.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/414_mothim.png,mothim,bug and flying-type moth pokemon,"bug, flying",Moth Pokémon,generation-iv
+415,415_combee.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/415_combee.png,combee,bug and flying-type tiny bee pokemon,"bug, flying",Tiny Bee Pokémon,generation-iv
+416,416_vespiquen.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/416_vespiquen.png,vespiquen,bug and flying-type beehive pokemon,"bug, flying",Beehive Pokémon,generation-iv
+417,417_pachirisu.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/417_pachirisu.png,pachirisu,electric-type elesquirrel pokemon,electric,EleSquirrel Pokémon,generation-iv
+418,418_buizel.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/418_buizel.png,buizel,water-type sea weasel pokemon,water,Sea Weasel Pokémon,generation-iv
+419,419_floatzel.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/419_floatzel.png,floatzel,water-type sea weasel pokemon,water,Sea Weasel Pokémon,generation-iv
+420,420_cherubi.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/420_cherubi.png,cherubi,grass-type cherry pokemon,grass,Cherry Pokémon,generation-iv
+421,421_cherrim.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/421_cherrim.png,cherrim,grass-type blossom pokemon,grass,Blossom Pokémon,generation-iv
+422,422_shellos.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/422_shellos.png,shellos,water-type sea slug pokemon,water,Sea Slug Pokémon,generation-iv
+423,423_gastrodon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/423_gastrodon.png,gastrodon,water and ground-type sea slug pokemon,"water, ground",Sea Slug Pokémon,generation-iv
+424,424_ambipom.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/424_ambipom.png,ambipom,normal-type long tail pokemon,normal,Long Tail Pokémon,generation-iv
+425,425_drifloon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/425_drifloon.png,drifloon,ghost and flying-type balloon pokemon,"ghost, flying",Balloon Pokémon,generation-iv
+426,426_drifblim.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/426_drifblim.png,drifblim,ghost and flying-type blimp pokemon,"ghost, flying",Blimp Pokémon,generation-iv
+427,427_buneary.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/427_buneary.png,buneary,normal-type rabbit pokemon,normal,Rabbit Pokémon,generation-iv
+428,428_lopunny.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/428_lopunny.png,lopunny,normal-type rabbit pokemon,normal,Rabbit Pokémon,generation-iv
+429,429_mismagius.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/429_mismagius.png,mismagius,ghost-type magical pokemon,ghost,Magical Pokémon,generation-iv
+430,430_honchkrow.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/430_honchkrow.png,honchkrow,dark and flying-type big boss pokemon,"dark, flying",Big Boss Pokémon,generation-iv
+431,431_glameow.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/431_glameow.png,glameow,normal-type catty pokemon,normal,Catty Pokémon,generation-iv
+432,432_purugly.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/432_purugly.png,purugly,normal-type tiger cat pokemon,normal,Tiger Cat Pokémon,generation-iv
+433,433_chingling.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/433_chingling.png,chingling,psychic-type bell pokemon,psychic,Bell Pokémon,generation-iv
+434,434_stunky.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/434_stunky.png,stunky,poison and dark-type skunk pokemon,"poison, dark",Skunk Pokémon,generation-iv
+435,435_skuntank.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/435_skuntank.png,skuntank,poison and dark-type skunk pokemon,"poison, dark",Skunk Pokémon,generation-iv
+436,436_bronzor.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/436_bronzor.png,bronzor,steel and psychic-type bronze pokemon,"steel, psychic",Bronze Pokémon,generation-iv
+437,437_bronzong.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/437_bronzong.png,bronzong,steel and psychic-type bronze bell pokemon,"steel, psychic",Bronze Bell Pokémon,generation-iv
+438,438_bonsly.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/438_bonsly.png,bonsly,rock-type bonsai pokemon,rock,Bonsai Pokémon,generation-iv
+439,439_mime-jr.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/439_mime-jr.png,mime-jr,psychic and fairy-type mime pokemon,"psychic, fairy",Mime Pokémon,generation-iv
+440,440_happiny.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/440_happiny.png,happiny,normal-type playhouse pokemon,normal,Playhouse Pokémon,generation-iv
+441,441_chatot.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/441_chatot.png,chatot,normal and flying-type music note pokemon,"normal, flying",Music Note Pokémon,generation-iv
+442,442_spiritomb.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/442_spiritomb.png,spiritomb,ghost and dark-type forbidden pokemon,"ghost, dark",Forbidden Pokémon,generation-iv
+443,443_gible.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/443_gible.png,gible,dragon and ground-type land shark pokemon,"dragon, ground",Land Shark Pokémon,generation-iv
+444,444_gabite.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/444_gabite.png,gabite,dragon and ground-type cave pokemon,"dragon, ground",Cave Pokémon,generation-iv
+445,445_garchomp.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/445_garchomp.png,garchomp,dragon and ground-type mach pokemon,"dragon, ground",Mach Pokémon,generation-iv
+446,446_munchlax.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/446_munchlax.png,munchlax,normal-type big eater pokemon,normal,Big Eater Pokémon,generation-iv
+447,447_riolu.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/447_riolu.png,riolu,fighting-type emanation pokemon,fighting,Emanation Pokémon,generation-iv
+448,448_lucario.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/448_lucario.png,lucario,fighting and steel-type aura pokemon,"fighting, steel",Aura Pokémon,generation-iv
+449,449_hippopotas.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/449_hippopotas.png,hippopotas,ground-type hippo pokemon,ground,Hippo Pokémon,generation-iv
+450,450_hippowdon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/450_hippowdon.png,hippowdon,ground-type heavyweight pokemon,ground,Heavyweight Pokémon,generation-iv
+451,451_skorupi.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/451_skorupi.png,skorupi,poison and bug-type scorpion pokemon,"poison, bug",Scorpion Pokémon,generation-iv
+452,452_drapion.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/452_drapion.png,drapion,poison and dark-type ogre scorpion pokemon,"poison, dark",Ogre Scorpion Pokémon,generation-iv
+453,453_croagunk.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/453_croagunk.png,croagunk,poison and fighting-type toxic mouth pokemon,"poison, fighting",Toxic Mouth Pokémon,generation-iv
+454,454_toxicroak.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/454_toxicroak.png,toxicroak,poison and fighting-type toxic mouth pokemon,"poison, fighting",Toxic Mouth Pokémon,generation-iv
+455,455_carnivine.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/455_carnivine.png,carnivine,grass-type bug catcher pokemon,grass,Bug Catcher Pokémon,generation-iv
+456,456_finneon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/456_finneon.png,finneon,water-type wing fish pokemon,water,Wing Fish Pokémon,generation-iv
+457,457_lumineon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/457_lumineon.png,lumineon,water-type neon pokemon,water,Neon Pokémon,generation-iv
+458,458_mantyke.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/458_mantyke.png,mantyke,water and flying-type kite pokemon,"water, flying",Kite Pokémon,generation-iv
+459,459_snover.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/459_snover.png,snover,grass and ice-type frost tree pokemon,"grass, ice",Frost Tree Pokémon,generation-iv
+460,460_abomasnow.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/460_abomasnow.png,abomasnow,grass and ice-type frost tree pokemon,"grass, ice",Frost Tree Pokémon,generation-iv
+461,461_weavile.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/461_weavile.png,weavile,dark and ice-type sharp claw pokemon,"dark, ice",Sharp Claw Pokémon,generation-iv
+462,462_magnezone.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/462_magnezone.png,magnezone,electric and steel-type magnet area pokemon,"electric, steel",Magnet Area Pokémon,generation-iv
+463,463_lickilicky.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/463_lickilicky.png,lickilicky,normal-type licking pokemon,normal,Licking Pokémon,generation-iv
+464,464_rhyperior.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/464_rhyperior.png,rhyperior,ground and rock-type drill pokemon,"ground, rock",Drill Pokémon,generation-iv
+465,465_tangrowth.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/465_tangrowth.png,tangrowth,grass-type vine pokemon,grass,Vine Pokémon,generation-iv
+466,466_electivire.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/466_electivire.png,electivire,electric-type thunderbolt pokemon,electric,Thunderbolt Pokémon,generation-iv
+467,467_magmortar.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/467_magmortar.png,magmortar,fire-type blast pokemon,fire,Blast Pokémon,generation-iv
+468,468_togekiss.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/468_togekiss.png,togekiss,fairy and flying-type jubilee pokemon,"fairy, flying",Jubilee Pokémon,generation-iv
+469,469_yanmega.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/469_yanmega.png,yanmega,bug and flying-type ogre darner pokemon,"bug, flying",Ogre Darner Pokémon,generation-iv
+470,470_leafeon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/470_leafeon.png,leafeon,grass-type verdant pokemon,grass,Verdant Pokémon,generation-iv
+471,471_glaceon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/471_glaceon.png,glaceon,ice-type fresh snow pokemon,ice,Fresh Snow Pokémon,generation-iv
+472,472_gliscor.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/472_gliscor.png,gliscor,ground and flying-type fang scorpion pokemon,"ground, flying",Fang Scorpion Pokémon,generation-iv
+473,473_mamoswine.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/473_mamoswine.png,mamoswine,ice and ground-type twin tusk pokemon,"ice, ground",Twin Tusk Pokémon,generation-iv
+474,474_porygon-z.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/474_porygon-z.png,porygon-z,normal-type virtual pokemon,normal,Virtual Pokémon,generation-iv
+475,475_gallade.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/475_gallade.png,gallade,psychic and fighting-type blade pokemon,"psychic, fighting",Blade Pokémon,generation-iv
+476,476_probopass.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/476_probopass.png,probopass,rock and steel-type compass pokemon,"rock, steel",Compass Pokémon,generation-iv
+477,477_dusknoir.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/477_dusknoir.png,dusknoir,ghost-type gripper pokemon,ghost,Gripper Pokémon,generation-iv
+478,478_froslass.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/478_froslass.png,froslass,ice and ghost-type snow land pokemon,"ice, ghost",Snow Land Pokémon,generation-iv
+479,479_rotom.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/479_rotom.png,rotom,electric and ghost-type plasma pokemon,"electric, ghost",Plasma Pokémon,generation-iv
+480,480_uxie.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/480_uxie.png,uxie,psychic-type knowledge pokemon,psychic,Knowledge Pokémon,generation-iv
+481,481_mesprit.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/481_mesprit.png,mesprit,psychic-type emotion pokemon,psychic,Emotion Pokémon,generation-iv
+482,482_azelf.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/482_azelf.png,azelf,psychic-type willpower pokemon,psychic,Willpower Pokémon,generation-iv
+483,483_dialga.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/483_dialga.png,dialga,steel and dragon-type temporal pokemon,"steel, dragon",Temporal Pokémon,generation-iv
+484,484_palkia.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/484_palkia.png,palkia,water and dragon-type spatial pokemon,"water, dragon",Spatial Pokémon,generation-iv
+485,485_heatran.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/485_heatran.png,heatran,fire and steel-type lava dome pokemon,"fire, steel",Lava Dome Pokémon,generation-iv
+486,486_regigigas.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/486_regigigas.png,regigigas,normal-type colossal pokemon,normal,Colossal Pokémon,generation-iv
+487,487_giratina-altered.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/487_giratina-altered.png,giratina-altered,ghost and dragon-type renegade pokemon,"ghost, dragon",Renegade Pokémon,generation-iv
+488,488_cresselia.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/488_cresselia.png,cresselia,psychic-type lunar pokemon,psychic,Lunar Pokémon,generation-iv
+489,489_phione.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/489_phione.png,phione,water-type sea drifter pokemon,water,Sea Drifter Pokémon,generation-iv
+490,490_manaphy.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/490_manaphy.png,manaphy,water-type seafaring pokemon,water,Seafaring Pokémon,generation-iv
+491,491_darkrai.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/491_darkrai.png,darkrai,dark-type pitch-black pokemon,dark,Pitch-Black Pokémon,generation-iv
+492,492_shaymin-land.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/492_shaymin-land.png,shaymin-land,grass-type gratitude pokemon,grass,Gratitude Pokémon,generation-iv
+493,493_arceus.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/493_arceus.png,arceus,normal-type alpha pokemon,normal,Alpha Pokémon,generation-iv
+494,494_victini.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/494_victini.png,victini,psychic and fire-type victory pokemon,"psychic, fire",Victory Pokémon,generation-v
+495,495_snivy.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/495_snivy.png,snivy,grass-type grass snake pokemon,grass,Grass Snake Pokémon,generation-v
+496,496_servine.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/496_servine.png,servine,grass-type grass snake pokemon,grass,Grass Snake Pokémon,generation-v
+497,497_serperior.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/497_serperior.png,serperior,grass-type regal pokemon,grass,Regal Pokémon,generation-v
+498,498_tepig.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/498_tepig.png,tepig,fire-type fire pig pokemon,fire,Fire Pig Pokémon,generation-v
+499,499_pignite.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/499_pignite.png,pignite,fire and fighting-type fire pig pokemon,"fire, fighting",Fire Pig Pokémon,generation-v
+500,500_emboar.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/500_emboar.png,emboar,fire and fighting-type mega fire pig pokemon,"fire, fighting",Mega Fire Pig Pokémon,generation-v
+501,501_oshawott.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/501_oshawott.png,oshawott,water-type sea otter pokemon,water,Sea Otter Pokémon,generation-v
+502,502_dewott.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/502_dewott.png,dewott,water-type discipline pokemon,water,Discipline Pokémon,generation-v
+503,503_samurott.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/503_samurott.png,samurott,water-type formidable pokemon,water,Formidable Pokémon,generation-v
+504,504_patrat.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/504_patrat.png,patrat,normal-type scout pokemon,normal,Scout Pokémon,generation-v
+505,505_watchog.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/505_watchog.png,watchog,normal-type lookout pokemon,normal,Lookout Pokémon,generation-v
+506,506_lillipup.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/506_lillipup.png,lillipup,normal-type puppy pokemon,normal,Puppy Pokémon,generation-v
+507,507_herdier.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/507_herdier.png,herdier,normal-type loyal dog pokemon,normal,Loyal Dog Pokémon,generation-v
+508,508_stoutland.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/508_stoutland.png,stoutland,normal-type big-hearted pokemon,normal,Big-Hearted Pokémon,generation-v
+509,509_purrloin.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/509_purrloin.png,purrloin,dark-type devious pokemon,dark,Devious Pokémon,generation-v
+510,510_liepard.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/510_liepard.png,liepard,dark-type cruel pokemon,dark,Cruel Pokémon,generation-v
+511,511_pansage.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/511_pansage.png,pansage,grass-type grass monkey pokemon,grass,Grass Monkey Pokémon,generation-v
+512,512_simisage.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/512_simisage.png,simisage,grass-type thorn monkey pokemon,grass,Thorn Monkey Pokémon,generation-v
+513,513_pansear.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/513_pansear.png,pansear,fire-type high temp pokemon,fire,High Temp Pokémon,generation-v
+514,514_simisear.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/514_simisear.png,simisear,fire-type ember pokemon,fire,Ember Pokémon,generation-v
+515,515_panpour.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/515_panpour.png,panpour,water-type spray pokemon,water,Spray Pokémon,generation-v
+516,516_simipour.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/516_simipour.png,simipour,water-type geyser pokemon,water,Geyser Pokémon,generation-v
+517,517_munna.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/517_munna.png,munna,psychic-type dream eater pokemon,psychic,Dream Eater Pokémon,generation-v
+518,518_musharna.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/518_musharna.png,musharna,psychic-type drowsing pokemon,psychic,Drowsing Pokémon,generation-v
+519,519_pidove.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/519_pidove.png,pidove,normal and flying-type tiny pigeon pokemon,"normal, flying",Tiny Pigeon Pokémon,generation-v
+520,520_tranquill.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/520_tranquill.png,tranquill,normal and flying-type wild pigeon pokemon,"normal, flying",Wild Pigeon Pokémon,generation-v
+521,521_unfezant.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/521_unfezant.png,unfezant,normal and flying-type proud pokemon,"normal, flying",Proud Pokémon,generation-v
+522,522_blitzle.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/522_blitzle.png,blitzle,electric-type electrified pokemon,electric,Electrified Pokémon,generation-v
+523,523_zebstrika.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/523_zebstrika.png,zebstrika,electric-type thunderbolt pokemon,electric,Thunderbolt Pokémon,generation-v
+524,524_roggenrola.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/524_roggenrola.png,roggenrola,rock-type mantle pokemon,rock,Mantle Pokémon,generation-v
+525,525_boldore.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/525_boldore.png,boldore,rock-type ore pokemon,rock,Ore Pokémon,generation-v
+526,526_gigalith.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/526_gigalith.png,gigalith,rock-type compressed pokemon,rock,Compressed Pokémon,generation-v
+527,527_woobat.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/527_woobat.png,woobat,psychic and flying-type bat pokemon,"psychic, flying",Bat Pokémon,generation-v
+528,528_swoobat.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/528_swoobat.png,swoobat,psychic and flying-type courting pokemon,"psychic, flying",Courting Pokémon,generation-v
+529,529_drilbur.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/529_drilbur.png,drilbur,ground-type mole pokemon,ground,Mole Pokémon,generation-v
+530,530_excadrill.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/530_excadrill.png,excadrill,ground and steel-type subterrene pokemon,"ground, steel",Subterrene Pokémon,generation-v
+531,531_audino.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/531_audino.png,audino,normal-type hearing pokemon,normal,Hearing Pokémon,generation-v
+532,532_timburr.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/532_timburr.png,timburr,fighting-type muscular pokemon,fighting,Muscular Pokémon,generation-v
+533,533_gurdurr.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/533_gurdurr.png,gurdurr,fighting-type muscular pokemon,fighting,Muscular Pokémon,generation-v
+534,534_conkeldurr.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/534_conkeldurr.png,conkeldurr,fighting-type muscular pokemon,fighting,Muscular Pokémon,generation-v
+535,535_tympole.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/535_tympole.png,tympole,water-type tadpole pokemon,water,Tadpole Pokémon,generation-v
+536,536_palpitoad.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/536_palpitoad.png,palpitoad,water and ground-type vibration pokemon,"water, ground",Vibration Pokémon,generation-v
+537,537_seismitoad.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/537_seismitoad.png,seismitoad,water and ground-type vibration pokemon,"water, ground",Vibration Pokémon,generation-v
+538,538_throh.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/538_throh.png,throh,fighting-type judo pokemon,fighting,Judo Pokémon,generation-v
+539,539_sawk.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/539_sawk.png,sawk,fighting-type karate pokemon,fighting,Karate Pokémon,generation-v
+540,540_sewaddle.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/540_sewaddle.png,sewaddle,bug and grass-type sewing pokemon,"bug, grass",Sewing Pokémon,generation-v
+541,541_swadloon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/541_swadloon.png,swadloon,bug and grass-type leaf-wrapped pokemon,"bug, grass",Leaf-Wrapped Pokémon,generation-v
+542,542_leavanny.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/542_leavanny.png,leavanny,bug and grass-type nurturing pokemon,"bug, grass",Nurturing Pokémon,generation-v
+543,543_venipede.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/543_venipede.png,venipede,bug and poison-type centipede pokemon,"bug, poison",Centipede Pokémon,generation-v
+544,544_whirlipede.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/544_whirlipede.png,whirlipede,bug and poison-type curlipede pokemon,"bug, poison",Curlipede Pokémon,generation-v
+545,545_scolipede.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/545_scolipede.png,scolipede,bug and poison-type megapede pokemon,"bug, poison",Megapede Pokémon,generation-v
+546,546_cottonee.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/546_cottonee.png,cottonee,grass and fairy-type cotton puff pokemon,"grass, fairy",Cotton Puff Pokémon,generation-v
+547,547_whimsicott.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/547_whimsicott.png,whimsicott,grass and fairy-type windveiled pokemon,"grass, fairy",Windveiled Pokémon,generation-v
+548,548_petilil.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/548_petilil.png,petilil,grass-type bulb pokemon,grass,Bulb Pokémon,generation-v
+549,549_lilligant.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/549_lilligant.png,lilligant,grass-type flowering pokemon,grass,Flowering Pokémon,generation-v
+550,550_basculin-red-striped.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/550_basculin-red-striped.png,basculin-red-striped,water-type hostile pokemon,water,Hostile Pokémon,generation-v
+551,551_sandile.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/551_sandile.png,sandile,ground and dark-type desert croc pokemon,"ground, dark",Desert Croc Pokémon,generation-v
+552,552_krokorok.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/552_krokorok.png,krokorok,ground and dark-type desert croc pokemon,"ground, dark",Desert Croc Pokémon,generation-v
+553,553_krookodile.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/553_krookodile.png,krookodile,ground and dark-type intimidation pokemon,"ground, dark",Intimidation Pokémon,generation-v
+554,554_darumaka.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/554_darumaka.png,darumaka,fire-type zen charm pokemon,fire,Zen Charm Pokémon,generation-v
+555,555_darmanitan-standard.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/555_darmanitan-standard.png,darmanitan-standard,fire-type blazing pokemon,fire,Blazing Pokémon,generation-v
+556,556_maractus.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/556_maractus.png,maractus,grass-type cactus pokemon,grass,Cactus Pokémon,generation-v
+557,557_dwebble.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/557_dwebble.png,dwebble,bug and rock-type rock inn pokemon,"bug, rock",Rock Inn Pokémon,generation-v
+558,558_crustle.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/558_crustle.png,crustle,bug and rock-type stone home pokemon,"bug, rock",Stone Home Pokémon,generation-v
+559,559_scraggy.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/559_scraggy.png,scraggy,dark and fighting-type shedding pokemon,"dark, fighting",Shedding Pokémon,generation-v
+560,560_scrafty.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/560_scrafty.png,scrafty,dark and fighting-type hoodlum pokemon,"dark, fighting",Hoodlum Pokémon,generation-v
+561,561_sigilyph.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/561_sigilyph.png,sigilyph,psychic and flying-type avianoid pokemon,"psychic, flying",Avianoid Pokémon,generation-v
+562,562_yamask.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/562_yamask.png,yamask,ghost-type spirit pokemon,ghost,Spirit Pokémon,generation-v
+563,563_cofagrigus.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/563_cofagrigus.png,cofagrigus,ghost-type coffin pokemon,ghost,Coffin Pokémon,generation-v
+564,564_tirtouga.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/564_tirtouga.png,tirtouga,water and rock-type prototurtle pokemon,"water, rock",Prototurtle Pokémon,generation-v
+565,565_carracosta.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/565_carracosta.png,carracosta,water and rock-type prototurtle pokemon,"water, rock",Prototurtle Pokémon,generation-v
+566,566_archen.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/566_archen.png,archen,rock and flying-type first bird pokemon,"rock, flying",First Bird Pokémon,generation-v
+567,567_archeops.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/567_archeops.png,archeops,rock and flying-type first bird pokemon,"rock, flying",First Bird Pokémon,generation-v
+568,568_trubbish.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/568_trubbish.png,trubbish,poison-type trash bag pokemon,poison,Trash Bag Pokémon,generation-v
+569,569_garbodor.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/569_garbodor.png,garbodor,poison-type trash heap pokemon,poison,Trash Heap Pokémon,generation-v
+570,570_zorua.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/570_zorua.png,zorua,dark-type tricky fox pokemon,dark,Tricky Fox Pokémon,generation-v
+571,571_zoroark.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/571_zoroark.png,zoroark,dark-type illusion fox pokemon,dark,Illusion Fox Pokémon,generation-v
+572,572_minccino.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/572_minccino.png,minccino,normal-type chinchilla pokemon,normal,Chinchilla Pokémon,generation-v
+573,573_cinccino.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/573_cinccino.png,cinccino,normal-type scarf pokemon,normal,Scarf Pokémon,generation-v
+574,574_gothita.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/574_gothita.png,gothita,psychic-type fixation pokemon,psychic,Fixation Pokémon,generation-v
+575,575_gothorita.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/575_gothorita.png,gothorita,psychic-type manipulate pokemon,psychic,Manipulate Pokémon,generation-v
+576,576_gothitelle.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/576_gothitelle.png,gothitelle,psychic-type astral body pokemon,psychic,Astral Body Pokémon,generation-v
+577,577_solosis.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/577_solosis.png,solosis,psychic-type cell pokemon,psychic,Cell Pokémon,generation-v
+578,578_duosion.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/578_duosion.png,duosion,psychic-type mitosis pokemon,psychic,Mitosis Pokémon,generation-v
+579,579_reuniclus.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/579_reuniclus.png,reuniclus,psychic-type multiplying pokemon,psychic,Multiplying Pokémon,generation-v
+580,580_ducklett.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/580_ducklett.png,ducklett,water and flying-type water bird pokemon,"water, flying",Water Bird Pokémon,generation-v
+581,581_swanna.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/581_swanna.png,swanna,water and flying-type white bird pokemon,"water, flying",White Bird Pokémon,generation-v
+582,582_vanillite.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/582_vanillite.png,vanillite,ice-type fresh snow pokemon,ice,Fresh Snow Pokémon,generation-v
+583,583_vanillish.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/583_vanillish.png,vanillish,ice-type icy snow pokemon,ice,Icy Snow Pokémon,generation-v
+584,584_vanilluxe.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/584_vanilluxe.png,vanilluxe,ice-type snowstorm pokemon,ice,Snowstorm Pokémon,generation-v
+585,585_deerling.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/585_deerling.png,deerling,normal and grass-type season pokemon,"normal, grass",Season Pokémon,generation-v
+586,586_sawsbuck.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/586_sawsbuck.png,sawsbuck,normal and grass-type season pokemon,"normal, grass",Season Pokémon,generation-v
+587,587_emolga.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/587_emolga.png,emolga,electric and flying-type sky squirrel pokemon,"electric, flying",Sky Squirrel Pokémon,generation-v
+588,588_karrablast.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/588_karrablast.png,karrablast,bug-type clamping pokemon,bug,Clamping Pokémon,generation-v
+589,589_escavalier.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/589_escavalier.png,escavalier,bug and steel-type cavalry pokemon,"bug, steel",Cavalry Pokémon,generation-v
+590,590_foongus.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/590_foongus.png,foongus,grass and poison-type mushroom pokemon,"grass, poison",Mushroom Pokémon,generation-v
+591,591_amoonguss.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/591_amoonguss.png,amoonguss,grass and poison-type mushroom pokemon,"grass, poison",Mushroom Pokémon,generation-v
+592,592_frillish.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/592_frillish.png,frillish,water and ghost-type floating pokemon,"water, ghost",Floating Pokémon,generation-v
+593,593_jellicent.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/593_jellicent.png,jellicent,water and ghost-type floating pokemon,"water, ghost",Floating Pokémon,generation-v
+594,594_alomomola.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/594_alomomola.png,alomomola,water-type caring pokemon,water,Caring Pokémon,generation-v
+595,595_joltik.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/595_joltik.png,joltik,bug and electric-type attaching pokemon,"bug, electric",Attaching Pokémon,generation-v
+596,596_galvantula.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/596_galvantula.png,galvantula,bug and electric-type elespider pokemon,"bug, electric",EleSpider Pokémon,generation-v
+597,597_ferroseed.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/597_ferroseed.png,ferroseed,grass and steel-type thorn seed pokemon,"grass, steel",Thorn Seed Pokémon,generation-v
+598,598_ferrothorn.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/598_ferrothorn.png,ferrothorn,grass and steel-type thorn pod pokemon,"grass, steel",Thorn Pod Pokémon,generation-v
+599,599_klink.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/599_klink.png,klink,steel-type gear pokemon,steel,Gear Pokémon,generation-v
+600,600_klang.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/600_klang.png,klang,steel-type gear pokemon,steel,Gear Pokémon,generation-v
+601,601_klinklang.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/601_klinklang.png,klinklang,steel-type gear pokemon,steel,Gear Pokémon,generation-v
+602,602_tynamo.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/602_tynamo.png,tynamo,electric-type elefish pokemon,electric,EleFish Pokémon,generation-v
+603,603_eelektrik.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/603_eelektrik.png,eelektrik,electric-type elefish pokemon,electric,EleFish Pokémon,generation-v
+604,604_eelektross.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/604_eelektross.png,eelektross,electric-type elefish pokemon,electric,EleFish Pokémon,generation-v
+605,605_elgyem.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/605_elgyem.png,elgyem,psychic-type cerebral pokemon,psychic,Cerebral Pokémon,generation-v
+606,606_beheeyem.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/606_beheeyem.png,beheeyem,psychic-type cerebral pokemon,psychic,Cerebral Pokémon,generation-v
+607,607_litwick.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/607_litwick.png,litwick,ghost and fire-type candle pokemon,"ghost, fire",Candle Pokémon,generation-v
+608,608_lampent.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/608_lampent.png,lampent,ghost and fire-type lamp pokemon,"ghost, fire",Lamp Pokémon,generation-v
+609,609_chandelure.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/609_chandelure.png,chandelure,ghost and fire-type luring pokemon,"ghost, fire",Luring Pokémon,generation-v
+610,610_axew.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/610_axew.png,axew,dragon-type tusk pokemon,dragon,Tusk Pokémon,generation-v
+611,611_fraxure.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/611_fraxure.png,fraxure,dragon-type axe jaw pokemon,dragon,Axe Jaw Pokémon,generation-v
+612,612_haxorus.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/612_haxorus.png,haxorus,dragon-type axe jaw pokemon,dragon,Axe Jaw Pokémon,generation-v
+613,613_cubchoo.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/613_cubchoo.png,cubchoo,ice-type chill pokemon,ice,Chill Pokémon,generation-v
+614,614_beartic.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/614_beartic.png,beartic,ice-type freezing pokemon,ice,Freezing Pokémon,generation-v
+615,615_cryogonal.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/615_cryogonal.png,cryogonal,ice-type crystallizing pokemon,ice,Crystallizing Pokémon,generation-v
+616,616_shelmet.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/616_shelmet.png,shelmet,bug-type snail pokemon,bug,Snail Pokémon,generation-v
+617,617_accelgor.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/617_accelgor.png,accelgor,bug-type shell out pokemon,bug,Shell Out Pokémon,generation-v
+618,618_stunfisk.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/618_stunfisk.png,stunfisk,ground and electric-type trap pokemon,"ground, electric",Trap Pokémon,generation-v
+619,619_mienfoo.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/619_mienfoo.png,mienfoo,fighting-type martial arts pokemon,fighting,Martial Arts Pokémon,generation-v
+620,620_mienshao.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/620_mienshao.png,mienshao,fighting-type martial arts pokemon,fighting,Martial Arts Pokémon,generation-v
+621,621_druddigon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/621_druddigon.png,druddigon,dragon-type cave pokemon,dragon,Cave Pokémon,generation-v
+622,622_golett.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/622_golett.png,golett,ground and ghost-type automaton pokemon,"ground, ghost",Automaton Pokémon,generation-v
+623,623_golurk.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/623_golurk.png,golurk,ground and ghost-type automaton pokemon,"ground, ghost",Automaton Pokémon,generation-v
+624,624_pawniard.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/624_pawniard.png,pawniard,dark and steel-type sharp blade pokemon,"dark, steel",Sharp Blade Pokémon,generation-v
+625,625_bisharp.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/625_bisharp.png,bisharp,dark and steel-type sword blade pokemon,"dark, steel",Sword Blade Pokémon,generation-v
+626,626_bouffalant.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/626_bouffalant.png,bouffalant,normal-type bash buffalo pokemon,normal,Bash Buffalo Pokémon,generation-v
+627,627_rufflet.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/627_rufflet.png,rufflet,normal and flying-type eaglet pokemon,"normal, flying",Eaglet Pokémon,generation-v
+628,628_braviary.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/628_braviary.png,braviary,normal and flying-type valiant pokemon,"normal, flying",Valiant Pokémon,generation-v
+629,629_vullaby.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/629_vullaby.png,vullaby,dark and flying-type diapered pokemon,"dark, flying",Diapered Pokémon,generation-v
+630,630_mandibuzz.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/630_mandibuzz.png,mandibuzz,dark and flying-type bone vulture pokemon,"dark, flying",Bone Vulture Pokémon,generation-v
+631,631_heatmor.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/631_heatmor.png,heatmor,fire-type anteater pokemon,fire,Anteater Pokémon,generation-v
+632,632_durant.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/632_durant.png,durant,bug and steel-type iron ant pokemon,"bug, steel",Iron Ant Pokémon,generation-v
+633,633_deino.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/633_deino.png,deino,dark and dragon-type irate pokemon,"dark, dragon",Irate Pokémon,generation-v
+634,634_zweilous.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/634_zweilous.png,zweilous,dark and dragon-type hostile pokemon,"dark, dragon",Hostile Pokémon,generation-v
+635,635_hydreigon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/635_hydreigon.png,hydreigon,dark and dragon-type brutal pokemon,"dark, dragon",Brutal Pokémon,generation-v
+636,636_larvesta.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/636_larvesta.png,larvesta,bug and fire-type torch pokemon,"bug, fire",Torch Pokémon,generation-v
+637,637_volcarona.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/637_volcarona.png,volcarona,bug and fire-type sun pokemon,"bug, fire",Sun Pokémon,generation-v
+638,638_cobalion.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/638_cobalion.png,cobalion,steel and fighting-type iron will pokemon,"steel, fighting",Iron Will Pokémon,generation-v
+639,639_terrakion.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/639_terrakion.png,terrakion,rock and fighting-type cavern pokemon,"rock, fighting",Cavern Pokémon,generation-v
+640,640_virizion.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/640_virizion.png,virizion,grass and fighting-type grassland pokemon,"grass, fighting",Grassland Pokémon,generation-v
+641,641_tornadus-incarnate.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/641_tornadus-incarnate.png,tornadus-incarnate,flying-type cyclone pokemon,flying,Cyclone Pokémon,generation-v
+642,642_thundurus-incarnate.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/642_thundurus-incarnate.png,thundurus-incarnate,electric and flying-type bolt strike pokemon,"electric, flying",Bolt Strike Pokémon,generation-v
+643,643_reshiram.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/643_reshiram.png,reshiram,dragon and fire-type vast white pokemon,"dragon, fire",Vast White Pokémon,generation-v
+644,644_zekrom.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/644_zekrom.png,zekrom,dragon and electric-type deep black pokemon,"dragon, electric",Deep Black Pokémon,generation-v
+645,645_landorus-incarnate.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/645_landorus-incarnate.png,landorus-incarnate,ground and flying-type abundance pokemon,"ground, flying",Abundance Pokémon,generation-v
+646,646_kyurem.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/646_kyurem.png,kyurem,dragon and ice-type boundary pokemon,"dragon, ice",Boundary Pokémon,generation-v
+647,647_keldeo-ordinary.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/647_keldeo-ordinary.png,keldeo-ordinary,water and fighting-type colt pokemon,"water, fighting",Colt Pokémon,generation-v
+648,648_meloetta-aria.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/648_meloetta-aria.png,meloetta-aria,normal and psychic-type melody pokemon,"normal, psychic",Melody Pokémon,generation-v
+649,649_genesect.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/649_genesect.png,genesect,bug and steel-type paleozoic pokemon,"bug, steel",Paleozoic Pokémon,generation-v
+650,650_chespin.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/650_chespin.png,chespin,grass-type spiny nut pokemon,grass,Spiny Nut Pokémon,generation-vi
+651,651_quilladin.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/651_quilladin.png,quilladin,grass-type spiny armor pokemon,grass,Spiny Armor Pokémon,generation-vi
+652,652_chesnaught.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/652_chesnaught.png,chesnaught,grass and fighting-type spiny armor pokemon,"grass, fighting",Spiny Armor Pokémon,generation-vi
+653,653_fennekin.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/653_fennekin.png,fennekin,fire-type fox pokemon,fire,Fox Pokémon,generation-vi
+654,654_braixen.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/654_braixen.png,braixen,fire-type fox pokemon,fire,Fox Pokémon,generation-vi
+655,655_delphox.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/655_delphox.png,delphox,fire and psychic-type fox pokemon,"fire, psychic",Fox Pokémon,generation-vi
+656,656_froakie.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/656_froakie.png,froakie,water-type bubble frog pokemon,water,Bubble Frog Pokémon,generation-vi
+657,657_frogadier.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/657_frogadier.png,frogadier,water-type bubble frog pokemon,water,Bubble Frog Pokémon,generation-vi
+658,658_greninja.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/658_greninja.png,greninja,water and dark-type ninja pokemon,"water, dark",Ninja Pokémon,generation-vi
+659,659_bunnelby.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/659_bunnelby.png,bunnelby,normal-type digging pokemon,normal,Digging Pokémon,generation-vi
+660,660_diggersby.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/660_diggersby.png,diggersby,normal and ground-type digging pokemon,"normal, ground",Digging Pokémon,generation-vi
+661,661_fletchling.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/661_fletchling.png,fletchling,normal and flying-type tiny robin pokemon,"normal, flying",Tiny Robin Pokémon,generation-vi
+662,662_fletchinder.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/662_fletchinder.png,fletchinder,fire and flying-type ember pokemon,"fire, flying",Ember Pokémon,generation-vi
+663,663_talonflame.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/663_talonflame.png,talonflame,fire and flying-type scorching pokemon,"fire, flying",Scorching Pokémon,generation-vi
+664,664_scatterbug.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/664_scatterbug.png,scatterbug,bug-type scatterdust pokemon,bug,Scatterdust Pokémon,generation-vi
+665,665_spewpa.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/665_spewpa.png,spewpa,bug-type scatterdust pokemon,bug,Scatterdust Pokémon,generation-vi
+666,666_vivillon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/666_vivillon.png,vivillon,bug and flying-type scale pokemon,"bug, flying",Scale Pokémon,generation-vi
+667,667_litleo.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/667_litleo.png,litleo,fire and normal-type lion cub pokemon,"fire, normal",Lion Cub Pokémon,generation-vi
+668,668_pyroar.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/668_pyroar.png,pyroar,fire and normal-type royal pokemon,"fire, normal",Royal Pokémon,generation-vi
+669,669_flabebe.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/669_flabebe.png,flabebe,fairy-type single bloom pokemon,fairy,Single Bloom Pokémon,generation-vi
+670,670_floette.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/670_floette.png,floette,fairy-type single bloom pokemon,fairy,Single Bloom Pokémon,generation-vi
+671,671_florges.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/671_florges.png,florges,fairy-type garden pokemon,fairy,Garden Pokémon,generation-vi
+672,672_skiddo.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/672_skiddo.png,skiddo,grass-type mount pokemon,grass,Mount Pokémon,generation-vi
+673,673_gogoat.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/673_gogoat.png,gogoat,grass-type mount pokemon,grass,Mount Pokémon,generation-vi
+674,674_pancham.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/674_pancham.png,pancham,fighting-type playful pokemon,fighting,Playful Pokémon,generation-vi
+675,675_pangoro.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/675_pangoro.png,pangoro,fighting and dark-type daunting pokemon,"fighting, dark",Daunting Pokémon,generation-vi
+676,676_furfrou.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/676_furfrou.png,furfrou,normal-type poodle pokemon,normal,Poodle Pokémon,generation-vi
+677,677_espurr.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/677_espurr.png,espurr,psychic-type restraint pokemon,psychic,Restraint Pokémon,generation-vi
+678,678_meowstic-male.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/678_meowstic-male.png,meowstic-male,psychic-type constraint pokemon,psychic,Constraint Pokémon,generation-vi
+679,679_honedge.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/679_honedge.png,honedge,steel and ghost-type sword pokemon,"steel, ghost",Sword Pokémon,generation-vi
+680,680_doublade.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/680_doublade.png,doublade,steel and ghost-type sword pokemon,"steel, ghost",Sword Pokémon,generation-vi
+681,681_aegislash-shield.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/681_aegislash-shield.png,aegislash-shield,steel and ghost-type royal sword pokemon,"steel, ghost",Royal Sword Pokémon,generation-vi
+682,682_spritzee.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/682_spritzee.png,spritzee,fairy-type perfume pokemon,fairy,Perfume Pokémon,generation-vi
+683,683_aromatisse.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/683_aromatisse.png,aromatisse,fairy-type fragrance pokemon,fairy,Fragrance Pokémon,generation-vi
+684,684_swirlix.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/684_swirlix.png,swirlix,fairy-type cotton candy pokemon,fairy,Cotton Candy Pokémon,generation-vi
+685,685_slurpuff.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/685_slurpuff.png,slurpuff,fairy-type meringue pokemon,fairy,Meringue Pokémon,generation-vi
+686,686_inkay.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/686_inkay.png,inkay,dark and psychic-type revolving pokemon,"dark, psychic",Revolving Pokémon,generation-vi
+687,687_malamar.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/687_malamar.png,malamar,dark and psychic-type overturning pokemon,"dark, psychic",Overturning Pokémon,generation-vi
+688,688_binacle.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/688_binacle.png,binacle,rock and water-type two-handed pokemon,"rock, water",Two-Handed Pokémon,generation-vi
+689,689_barbaracle.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/689_barbaracle.png,barbaracle,rock and water-type collective pokemon,"rock, water",Collective Pokémon,generation-vi
+690,690_skrelp.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/690_skrelp.png,skrelp,poison and water-type mock kelp pokemon,"poison, water",Mock Kelp Pokémon,generation-vi
+691,691_dragalge.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/691_dragalge.png,dragalge,poison and dragon-type mock kelp pokemon,"poison, dragon",Mock Kelp Pokémon,generation-vi
+692,692_clauncher.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/692_clauncher.png,clauncher,water-type water gun pokemon,water,Water Gun Pokémon,generation-vi
+693,693_clawitzer.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/693_clawitzer.png,clawitzer,water-type howitzer pokemon,water,Howitzer Pokémon,generation-vi
+694,694_helioptile.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/694_helioptile.png,helioptile,electric and normal-type generator pokemon,"electric, normal",Generator Pokémon,generation-vi
+695,695_heliolisk.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/695_heliolisk.png,heliolisk,electric and normal-type generator pokemon,"electric, normal",Generator Pokémon,generation-vi
+696,696_tyrunt.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/696_tyrunt.png,tyrunt,rock and dragon-type royal heir pokemon,"rock, dragon",Royal Heir Pokémon,generation-vi
+697,697_tyrantrum.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/697_tyrantrum.png,tyrantrum,rock and dragon-type despot pokemon,"rock, dragon",Despot Pokémon,generation-vi
+698,698_amaura.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/698_amaura.png,amaura,rock and ice-type tundra pokemon,"rock, ice",Tundra Pokémon,generation-vi
+699,699_aurorus.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/699_aurorus.png,aurorus,rock and ice-type tundra pokemon,"rock, ice",Tundra Pokémon,generation-vi
+700,700_sylveon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/700_sylveon.png,sylveon,fairy-type intertwining pokemon,fairy,Intertwining Pokémon,generation-vi
+701,701_hawlucha.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/701_hawlucha.png,hawlucha,fighting and flying-type wrestling pokemon,"fighting, flying",Wrestling Pokémon,generation-vi
+702,702_dedenne.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/702_dedenne.png,dedenne,electric and fairy-type antenna pokemon,"electric, fairy",Antenna Pokémon,generation-vi
+703,703_carbink.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/703_carbink.png,carbink,rock and fairy-type jewel pokemon,"rock, fairy",Jewel Pokémon,generation-vi
+704,704_goomy.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/704_goomy.png,goomy,dragon-type soft tissue pokemon,dragon,Soft Tissue Pokémon,generation-vi
+705,705_sliggoo.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/705_sliggoo.png,sliggoo,dragon-type soft tissue pokemon,dragon,Soft Tissue Pokémon,generation-vi
+706,706_goodra.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/706_goodra.png,goodra,dragon-type dragon pokemon,dragon,Dragon Pokémon,generation-vi
+707,707_klefki.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/707_klefki.png,klefki,steel and fairy-type key ring pokemon,"steel, fairy",Key Ring Pokémon,generation-vi
+708,708_phantump.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/708_phantump.png,phantump,ghost and grass-type stump pokemon,"ghost, grass",Stump Pokémon,generation-vi
+709,709_trevenant.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/709_trevenant.png,trevenant,ghost and grass-type elder tree pokemon,"ghost, grass",Elder Tree Pokémon,generation-vi
+710,710_pumpkaboo-average.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/710_pumpkaboo-average.png,pumpkaboo-average,ghost and grass-type pumpkin pokemon,"ghost, grass",Pumpkin Pokémon,generation-vi
+711,711_gourgeist-average.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/711_gourgeist-average.png,gourgeist-average,ghost and grass-type pumpkin pokemon,"ghost, grass",Pumpkin Pokémon,generation-vi
+712,712_bergmite.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/712_bergmite.png,bergmite,ice-type ice chunk pokemon,ice,Ice Chunk Pokémon,generation-vi
+713,713_avalugg.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/713_avalugg.png,avalugg,ice-type iceberg pokemon,ice,Iceberg Pokémon,generation-vi
+714,714_noibat.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/714_noibat.png,noibat,flying and dragon-type sound wave pokemon,"flying, dragon",Sound Wave Pokémon,generation-vi
+715,715_noivern.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/715_noivern.png,noivern,flying and dragon-type sound wave pokemon,"flying, dragon",Sound Wave Pokémon,generation-vi
+716,716_xerneas.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/716_xerneas.png,xerneas,fairy-type life pokemon,fairy,Life Pokémon,generation-vi
+717,717_yveltal.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/717_yveltal.png,yveltal,dark and flying-type destruction pokemon,"dark, flying",Destruction Pokémon,generation-vi
+718,718_zygarde-50.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/718_zygarde-50.png,zygarde-50,dragon and ground-type order pokemon,"dragon, ground",Order Pokémon,generation-vi
+719,719_diancie.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/719_diancie.png,diancie,rock and fairy-type jewel pokemon,"rock, fairy",Jewel Pokémon,generation-vi
+720,720_hoopa.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/720_hoopa.png,hoopa,psychic and ghost-type mischief pokemon,"psychic, ghost",Mischief Pokémon,generation-vi
+721,721_volcanion.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/721_volcanion.png,volcanion,fire and water-type steam pokemon,"fire, water",Steam Pokémon,generation-vi
+722,722_rowlet.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/722_rowlet.png,rowlet,grass and flying-type grass quill pokemon,"grass, flying",Grass Quill Pokémon,generation-vii
+723,723_dartrix.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/723_dartrix.png,dartrix,grass and flying-type blade quill pokemon,"grass, flying",Blade Quill Pokémon,generation-vii
+724,724_decidueye.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/724_decidueye.png,decidueye,grass and ghost-type arrow quill pokemon,"grass, ghost",Arrow Quill Pokémon,generation-vii
+725,725_litten.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/725_litten.png,litten,fire-type fire cat pokemon,fire,Fire Cat Pokémon,generation-vii
+726,726_torracat.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/726_torracat.png,torracat,fire-type fire cat pokemon,fire,Fire Cat Pokémon,generation-vii
+727,727_incineroar.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/727_incineroar.png,incineroar,fire and dark-type heel pokemon,"fire, dark",Heel Pokémon,generation-vii
+728,728_popplio.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/728_popplio.png,popplio,water-type sea lion pokemon,water,Sea Lion Pokémon,generation-vii
+729,729_brionne.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/729_brionne.png,brionne,water-type pop star pokemon,water,Pop Star Pokémon,generation-vii
+730,730_primarina.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/730_primarina.png,primarina,water and fairy-type soloist pokemon,"water, fairy",Soloist Pokémon,generation-vii
+731,731_pikipek.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/731_pikipek.png,pikipek,normal and flying-type woodpecker pokemon,"normal, flying",Woodpecker Pokémon,generation-vii
+732,732_trumbeak.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/732_trumbeak.png,trumbeak,normal and flying-type bugle beak pokemon,"normal, flying",Bugle Beak Pokémon,generation-vii
+733,733_toucannon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/733_toucannon.png,toucannon,normal and flying-type cannon pokemon,"normal, flying",Cannon Pokémon,generation-vii
+734,734_yungoos.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/734_yungoos.png,yungoos,normal-type loitering pokemon,normal,Loitering Pokémon,generation-vii
+735,735_gumshoos.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/735_gumshoos.png,gumshoos,normal-type stakeout pokemon,normal,Stakeout Pokémon,generation-vii
+736,736_grubbin.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/736_grubbin.png,grubbin,bug-type larva pokemon,bug,Larva Pokémon,generation-vii
+737,737_charjabug.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/737_charjabug.png,charjabug,bug and electric-type battery pokemon,"bug, electric",Battery Pokémon,generation-vii
+738,738_vikavolt.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/738_vikavolt.png,vikavolt,bug and electric-type stag beetle pokemon,"bug, electric",Stag Beetle Pokémon,generation-vii
+739,739_crabrawler.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/739_crabrawler.png,crabrawler,fighting-type boxing pokemon,fighting,Boxing Pokémon,generation-vii
+740,740_crabominable.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/740_crabominable.png,crabominable,fighting and ice-type woolly crab pokemon,"fighting, ice",Woolly Crab Pokémon,generation-vii
+741,741_oricorio-baile.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/741_oricorio-baile.png,oricorio-baile,fire and flying-type dancing pokemon,"fire, flying",Dancing Pokémon,generation-vii
+742,742_cutiefly.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/742_cutiefly.png,cutiefly,bug and fairy-type bee fly pokemon,"bug, fairy",Bee Fly Pokémon,generation-vii
+743,743_ribombee.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/743_ribombee.png,ribombee,bug and fairy-type bee fly pokemon,"bug, fairy",Bee Fly Pokémon,generation-vii
+744,744_rockruff.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/744_rockruff.png,rockruff,rock-type puppy pokemon,rock,Puppy Pokémon,generation-vii
+745,745_lycanroc-midday.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/745_lycanroc-midday.png,lycanroc-midday,rock-type wolf pokemon,rock,Wolf Pokémon,generation-vii
+746,746_wishiwashi-solo.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/746_wishiwashi-solo.png,wishiwashi-solo,water-type small fry pokemon,water,Small Fry Pokémon,generation-vii
+747,747_mareanie.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/747_mareanie.png,mareanie,poison and water-type brutal star pokemon,"poison, water",Brutal Star Pokémon,generation-vii
+748,748_toxapex.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/748_toxapex.png,toxapex,poison and water-type brutal star pokemon,"poison, water",Brutal Star Pokémon,generation-vii
+749,749_mudbray.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/749_mudbray.png,mudbray,ground-type donkey pokemon,ground,Donkey Pokémon,generation-vii
+750,750_mudsdale.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/750_mudsdale.png,mudsdale,ground-type draft horse pokemon,ground,Draft Horse Pokémon,generation-vii
+751,751_dewpider.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/751_dewpider.png,dewpider,water and bug-type water bubble pokemon,"water, bug",Water Bubble Pokémon,generation-vii
+752,752_araquanid.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/752_araquanid.png,araquanid,water and bug-type water bubble pokemon,"water, bug",Water Bubble Pokémon,generation-vii
+753,753_fomantis.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/753_fomantis.png,fomantis,grass-type sickle grass pokemon,grass,Sickle Grass Pokémon,generation-vii
+754,754_lurantis.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/754_lurantis.png,lurantis,grass-type bloom sickle pokemon,grass,Bloom Sickle Pokémon,generation-vii
+755,755_morelull.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/755_morelull.png,morelull,grass and fairy-type illuminating pokemon,"grass, fairy",Illuminating Pokémon,generation-vii
+756,756_shiinotic.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/756_shiinotic.png,shiinotic,grass and fairy-type illuminating pokemon,"grass, fairy",Illuminating Pokémon,generation-vii
+757,757_salandit.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/757_salandit.png,salandit,poison and fire-type toxic lizard pokemon,"poison, fire",Toxic Lizard Pokémon,generation-vii
+758,758_salazzle.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/758_salazzle.png,salazzle,poison and fire-type toxic lizard pokemon,"poison, fire",Toxic Lizard Pokémon,generation-vii
+759,759_stufful.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/759_stufful.png,stufful,normal and fighting-type flailing pokemon,"normal, fighting",Flailing Pokémon,generation-vii
+760,760_bewear.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/760_bewear.png,bewear,normal and fighting-type strong arm pokemon,"normal, fighting",Strong Arm Pokémon,generation-vii
+761,761_bounsweet.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/761_bounsweet.png,bounsweet,grass-type fruit pokemon,grass,Fruit Pokémon,generation-vii
+762,762_steenee.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/762_steenee.png,steenee,grass-type fruit pokemon,grass,Fruit Pokémon,generation-vii
+763,763_tsareena.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/763_tsareena.png,tsareena,grass-type fruit pokemon,grass,Fruit Pokémon,generation-vii
+764,764_comfey.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/764_comfey.png,comfey,fairy-type posy picker pokemon,fairy,Posy Picker Pokémon,generation-vii
+765,765_oranguru.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/765_oranguru.png,oranguru,normal and psychic-type sage pokemon,"normal, psychic",Sage Pokémon,generation-vii
+766,766_passimian.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/766_passimian.png,passimian,fighting-type teamwork pokemon,fighting,Teamwork Pokémon,generation-vii
+767,767_wimpod.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/767_wimpod.png,wimpod,bug and water-type turn tail pokemon,"bug, water",Turn Tail Pokémon,generation-vii
+768,768_golisopod.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/768_golisopod.png,golisopod,bug and water-type hard scale pokemon,"bug, water",Hard Scale Pokémon,generation-vii
+769,769_sandygast.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/769_sandygast.png,sandygast,ghost and ground-type sand heap pokemon,"ghost, ground",Sand Heap Pokémon,generation-vii
+770,770_palossand.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/770_palossand.png,palossand,ghost and ground-type sand castle pokemon,"ghost, ground",Sand Castle Pokémon,generation-vii
+771,771_pyukumuku.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/771_pyukumuku.png,pyukumuku,water-type sea cucumber pokemon,water,Sea Cucumber Pokémon,generation-vii
+772,772_type-null.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/772_type-null.png,type-null,normal-type synthetic pokemon,normal,Synthetic Pokémon,generation-vii
+773,773_silvally.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/773_silvally.png,silvally,normal-type synthetic pokemon,normal,Synthetic Pokémon,generation-vii
+774,774_minior-red-meteor.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/774_minior-red-meteor.png,minior-red-meteor,rock and flying-type meteor pokemon,"rock, flying",Meteor Pokémon,generation-vii
+775,775_komala.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/775_komala.png,komala,normal-type drowsing pokemon,normal,Drowsing Pokémon,generation-vii
+776,776_turtonator.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/776_turtonator.png,turtonator,fire and dragon-type blast turtle pokemon,"fire, dragon",Blast Turtle Pokémon,generation-vii
+777,777_togedemaru.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/777_togedemaru.png,togedemaru,electric and steel-type roly-poly pokemon,"electric, steel",Roly-Poly Pokémon,generation-vii
+778,778_mimikyu-disguised.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/778_mimikyu-disguised.png,mimikyu-disguised,ghost and fairy-type disguise pokemon,"ghost, fairy",Disguise Pokémon,generation-vii
+779,779_bruxish.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/779_bruxish.png,bruxish,water and psychic-type gnash teeth pokemon,"water, psychic",Gnash Teeth Pokémon,generation-vii
+780,780_drampa.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/780_drampa.png,drampa,normal and dragon-type placid pokemon,"normal, dragon",Placid Pokémon,generation-vii
+781,781_dhelmise.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/781_dhelmise.png,dhelmise,ghost and grass-type sea creeper pokemon,"ghost, grass",Sea Creeper Pokémon,generation-vii
+782,782_jangmo-o.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/782_jangmo-o.png,jangmo-o,dragon-type scaly pokemon,dragon,Scaly Pokémon,generation-vii
+783,783_hakamo-o.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/783_hakamo-o.png,hakamo-o,dragon and fighting-type scaly pokemon,"dragon, fighting",Scaly Pokémon,generation-vii
+784,784_kommo-o.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/784_kommo-o.png,kommo-o,dragon and fighting-type scaly pokemon,"dragon, fighting",Scaly Pokémon,generation-vii
+785,785_tapu-koko.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/785_tapu-koko.png,tapu-koko,electric and fairy-type land spirit pokemon,"electric, fairy",Land Spirit Pokémon,generation-vii
+786,786_tapu-lele.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/786_tapu-lele.png,tapu-lele,psychic and fairy-type land spirit pokemon,"psychic, fairy",Land Spirit Pokémon,generation-vii
+787,787_tapu-bulu.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/787_tapu-bulu.png,tapu-bulu,grass and fairy-type land spirit pokemon,"grass, fairy",Land Spirit Pokémon,generation-vii
+788,788_tapu-fini.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/788_tapu-fini.png,tapu-fini,water and fairy-type land spirit pokemon,"water, fairy",Land Spirit Pokémon,generation-vii
+789,789_cosmog.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/789_cosmog.png,cosmog,psychic-type nebula pokemon,psychic,Nebula Pokémon,generation-vii
+790,790_cosmoem.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/790_cosmoem.png,cosmoem,psychic-type protostar pokemon,psychic,Protostar Pokémon,generation-vii
+791,791_solgaleo.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/791_solgaleo.png,solgaleo,psychic and steel-type sunne pokemon,"psychic, steel",Sunne Pokémon,generation-vii
+792,792_lunala.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/792_lunala.png,lunala,psychic and ghost-type moone pokemon,"psychic, ghost",Moone Pokémon,generation-vii
+793,793_nihilego.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/793_nihilego.png,nihilego,rock and poison-type parasite pokemon,"rock, poison",Parasite Pokémon,generation-vii
+794,794_buzzwole.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/794_buzzwole.png,buzzwole,bug and fighting-type swollen pokemon,"bug, fighting",Swollen Pokémon,generation-vii
+795,795_pheromosa.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/795_pheromosa.png,pheromosa,bug and fighting-type lissome pokemon,"bug, fighting",Lissome Pokémon,generation-vii
+796,796_xurkitree.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/796_xurkitree.png,xurkitree,electric-type glowing pokemon,electric,Glowing Pokémon,generation-vii
+797,797_celesteela.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/797_celesteela.png,celesteela,steel and flying-type launch pokemon,"steel, flying",Launch Pokémon,generation-vii
+798,798_kartana.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/798_kartana.png,kartana,grass and steel-type drawn sword pokemon,"grass, steel",Drawn Sword Pokémon,generation-vii
+799,799_guzzlord.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/799_guzzlord.png,guzzlord,dark and dragon-type junkivore pokemon,"dark, dragon",Junkivore Pokémon,generation-vii
+800,800_necrozma.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/800_necrozma.png,necrozma,psychic-type prism pokemon,psychic,Prism Pokémon,generation-vii
+801,801_magearna.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/801_magearna.png,magearna,steel and fairy-type artificial pokemon,"steel, fairy",Artificial Pokémon,generation-vii
+802,802_marshadow.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/802_marshadow.png,marshadow,fighting and ghost-type gloomdweller pokemon,"fighting, ghost",Gloomdweller Pokémon,generation-vii
+803,803_poipole.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/803_poipole.png,poipole,poison-type poison pin pokemon,poison,Poison Pin Pokémon,generation-vii
+804,804_naganadel.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/804_naganadel.png,naganadel,poison and dragon-type poison pin pokemon,"poison, dragon",Poison Pin Pokémon,generation-vii
+805,805_stakataka.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/805_stakataka.png,stakataka,rock and steel-type rampart pokemon,"rock, steel",Rampart Pokémon,generation-vii
+806,806_blacephalon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/806_blacephalon.png,blacephalon,fire and ghost-type fireworks pokemon,"fire, ghost",Fireworks Pokémon,generation-vii
+807,807_zeraora.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/807_zeraora.png,zeraora,electric-type thunderclap pokemon,electric,Thunderclap Pokémon,generation-vii
+808,808_meltan.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/808_meltan.png,meltan,steel-type hex nut pokemon,steel,Hex Nut Pokémon,generation-vii
+809,809_melmetal.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/809_melmetal.png,melmetal,steel-type hex nut pokemon,steel,Hex Nut Pokémon,generation-vii
+810,810_grookey.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/810_grookey.png,grookey,grass-type chimp pokemon,grass,Chimp Pokémon,generation-viii
+811,811_thwackey.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/811_thwackey.png,thwackey,grass-type beat pokemon,grass,Beat Pokémon,generation-viii
+812,812_rillaboom.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/812_rillaboom.png,rillaboom,grass-type drummer pokemon,grass,Drummer Pokémon,generation-viii
+813,813_scorbunny.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/813_scorbunny.png,scorbunny,fire-type rabbit pokemon,fire,Rabbit Pokémon,generation-viii
+814,814_raboot.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/814_raboot.png,raboot,fire-type rabbit pokemon,fire,Rabbit Pokémon,generation-viii
+815,815_cinderace.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/815_cinderace.png,cinderace,fire-type striker pokemon,fire,Striker Pokémon,generation-viii
+816,816_sobble.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/816_sobble.png,sobble,water-type water lizard pokemon,water,Water Lizard Pokémon,generation-viii
+817,817_drizzile.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/817_drizzile.png,drizzile,water-type water lizard pokemon,water,Water Lizard Pokémon,generation-viii
+818,818_inteleon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/818_inteleon.png,inteleon,water-type secret agent pokemon,water,Secret Agent Pokémon,generation-viii
+819,819_skwovet.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/819_skwovet.png,skwovet,normal-type cheeky pokemon,normal,Cheeky Pokémon,generation-viii
+820,820_greedent.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/820_greedent.png,greedent,normal-type greedy pokemon,normal,Greedy Pokémon,generation-viii
+821,821_rookidee.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/821_rookidee.png,rookidee,flying-type tiny bird pokemon,flying,Tiny Bird Pokémon,generation-viii
+822,822_corvisquire.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/822_corvisquire.png,corvisquire,flying-type raven pokemon,flying,Raven Pokémon,generation-viii
+823,823_corviknight.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/823_corviknight.png,corviknight,flying and steel-type raven pokemon,"flying, steel",Raven Pokémon,generation-viii
+824,824_blipbug.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/824_blipbug.png,blipbug,bug-type larva pokemon,bug,Larva Pokémon,generation-viii
+825,825_dottler.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/825_dottler.png,dottler,bug and psychic-type radome pokemon,"bug, psychic",Radome Pokémon,generation-viii
+826,826_orbeetle.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/826_orbeetle.png,orbeetle,bug and psychic-type seven spot pokemon,"bug, psychic",Seven Spot Pokémon,generation-viii
+827,827_nickit.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/827_nickit.png,nickit,dark-type fox pokemon,dark,Fox Pokémon,generation-viii
+828,828_thievul.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/828_thievul.png,thievul,dark-type fox pokemon,dark,Fox Pokémon,generation-viii
+829,829_gossifleur.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/829_gossifleur.png,gossifleur,grass-type flowering pokemon,grass,Flowering Pokémon,generation-viii
+830,830_eldegoss.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/830_eldegoss.png,eldegoss,grass-type cotton bloom pokemon,grass,Cotton Bloom Pokémon,generation-viii
+831,831_wooloo.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/831_wooloo.png,wooloo,normal-type sheep pokemon,normal,Sheep Pokémon,generation-viii
+832,832_dubwool.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/832_dubwool.png,dubwool,normal-type sheep pokemon,normal,Sheep Pokémon,generation-viii
+833,833_chewtle.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/833_chewtle.png,chewtle,water-type snapping pokemon,water,Snapping Pokémon,generation-viii
+834,834_drednaw.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/834_drednaw.png,drednaw,water and rock-type bite pokemon,"water, rock",Bite Pokémon,generation-viii
+835,835_yamper.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/835_yamper.png,yamper,electric-type puppy pokemon,electric,Puppy Pokémon,generation-viii
+836,836_boltund.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/836_boltund.png,boltund,electric-type dog pokemon,electric,Dog Pokémon,generation-viii
+837,837_rolycoly.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/837_rolycoly.png,rolycoly,rock-type coal pokemon,rock,Coal Pokémon,generation-viii
+838,838_carkol.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/838_carkol.png,carkol,rock and fire-type coal pokemon,"rock, fire",Coal Pokémon,generation-viii
+839,839_coalossal.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/839_coalossal.png,coalossal,rock and fire-type coal pokemon,"rock, fire",Coal Pokémon,generation-viii
+840,840_applin.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/840_applin.png,applin,grass and dragon-type apple core pokemon,"grass, dragon",Apple Core Pokémon,generation-viii
+841,841_flapple.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/841_flapple.png,flapple,grass and dragon-type apple wing pokemon,"grass, dragon",Apple Wing Pokémon,generation-viii
+842,842_appletun.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/842_appletun.png,appletun,grass and dragon-type apple nectar pokemon,"grass, dragon",Apple Nectar Pokémon,generation-viii
+843,843_silicobra.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/843_silicobra.png,silicobra,ground-type sand snake pokemon,ground,Sand Snake Pokémon,generation-viii
+844,844_sandaconda.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/844_sandaconda.png,sandaconda,ground-type sand snake pokemon,ground,Sand Snake Pokémon,generation-viii
+845,845_cramorant.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/845_cramorant.png,cramorant,flying and water-type gulp pokemon,"flying, water",Gulp Pokémon,generation-viii
+846,846_arrokuda.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/846_arrokuda.png,arrokuda,water-type rush pokemon,water,Rush Pokémon,generation-viii
+847,847_barraskewda.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/847_barraskewda.png,barraskewda,water-type skewer pokemon,water,Skewer Pokémon,generation-viii
+848,848_toxel.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/848_toxel.png,toxel,electric and poison-type baby pokemon,"electric, poison",Baby Pokémon,generation-viii
+849,849_toxtricity-amped.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/849_toxtricity-amped.png,toxtricity-amped,electric and poison-type punk pokemon,"electric, poison",Punk Pokémon,generation-viii
+850,850_sizzlipede.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/850_sizzlipede.png,sizzlipede,fire and bug-type radiator pokemon,"fire, bug",Radiator Pokémon,generation-viii
+851,851_centiskorch.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/851_centiskorch.png,centiskorch,fire and bug-type radiator pokemon,"fire, bug",Radiator Pokémon,generation-viii
+852,852_clobbopus.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/852_clobbopus.png,clobbopus,fighting-type tantrum pokemon,fighting,Tantrum Pokémon,generation-viii
+853,853_grapploct.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/853_grapploct.png,grapploct,fighting-type jujitsu pokemon,fighting,Jujitsu Pokémon,generation-viii
+854,854_sinistea.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/854_sinistea.png,sinistea,ghost-type black tea pokemon,ghost,Black Tea Pokémon,generation-viii
+855,855_polteageist.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/855_polteageist.png,polteageist,ghost-type black tea pokemon,ghost,Black Tea Pokémon,generation-viii
+856,856_hatenna.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/856_hatenna.png,hatenna,psychic-type calm pokemon,psychic,Calm Pokémon,generation-viii
+857,857_hattrem.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/857_hattrem.png,hattrem,psychic-type serene pokemon,psychic,Serene Pokémon,generation-viii
+858,858_hatterene.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/858_hatterene.png,hatterene,psychic and fairy-type silent pokemon,"psychic, fairy",Silent Pokémon,generation-viii
+859,859_impidimp.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/859_impidimp.png,impidimp,dark and fairy-type wily pokemon,"dark, fairy",Wily Pokémon,generation-viii
+860,860_morgrem.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/860_morgrem.png,morgrem,dark and fairy-type devious pokemon,"dark, fairy",Devious Pokémon,generation-viii
+861,861_grimmsnarl.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/861_grimmsnarl.png,grimmsnarl,dark and fairy-type bulk up pokemon,"dark, fairy",Bulk Up Pokémon,generation-viii
+862,862_obstagoon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/862_obstagoon.png,obstagoon,dark and normal-type blocking pokemon,"dark, normal",Blocking Pokémon,generation-viii
+863,863_perrserker.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/863_perrserker.png,perrserker,steel-type viking pokemon,steel,Viking Pokémon,generation-viii
+864,864_cursola.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/864_cursola.png,cursola,ghost-type coral pokemon,ghost,Coral Pokémon,generation-viii
+865,865_sirfetchd.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/865_sirfetchd.png,sirfetchd,fighting-type wild duck pokemon,fighting,Wild Duck Pokémon,generation-viii
+866,866_mr-rime.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/866_mr-rime.png,mr-rime,ice and psychic-type comedian pokemon,"ice, psychic",Comedian Pokémon,generation-viii
+867,867_runerigus.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/867_runerigus.png,runerigus,ground and ghost-type grudge pokemon,"ground, ghost",Grudge Pokémon,generation-viii
+868,868_milcery.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/868_milcery.png,milcery,fairy-type cream pokemon,fairy,Cream Pokémon,generation-viii
+869,869_alcremie.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/869_alcremie.png,alcremie,fairy-type cream pokemon,fairy,Cream Pokémon,generation-viii
+870,870_falinks.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/870_falinks.png,falinks,fighting-type formation pokemon,fighting,Formation Pokémon,generation-viii
+871,871_pincurchin.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/871_pincurchin.png,pincurchin,electric-type sea urchin pokemon,electric,Sea Urchin Pokémon,generation-viii
+872,872_snom.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/872_snom.png,snom,ice and bug-type worm pokemon,"ice, bug",Worm Pokémon,generation-viii
+873,873_frosmoth.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/873_frosmoth.png,frosmoth,ice and bug-type frost moth pokemon,"ice, bug",Frost Moth Pokémon,generation-viii
+874,874_stonjourner.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/874_stonjourner.png,stonjourner,rock-type big rock pokemon,rock,Big Rock Pokémon,generation-viii
+875,875_eiscue-ice.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/875_eiscue-ice.png,eiscue-ice,ice-type penguin pokemon,ice,Penguin Pokémon,generation-viii
+876,876_indeedee-male.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/876_indeedee-male.png,indeedee-male,psychic and normal-type emotion pokemon,"psychic, normal",Emotion Pokémon,generation-viii
+877,877_morpeko-full-belly.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/877_morpeko-full-belly.png,morpeko-full-belly,electric and dark-type two-sided pokemon,"electric, dark",Two-Sided Pokémon,generation-viii
+878,878_cufant.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/878_cufant.png,cufant,steel-type copperderm pokemon,steel,Copperderm Pokémon,generation-viii
+879,879_copperajah.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/879_copperajah.png,copperajah,steel-type copperderm pokemon,steel,Copperderm Pokémon,generation-viii
+880,880_dracozolt.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/880_dracozolt.png,dracozolt,electric and dragon-type fossil pokemon,"electric, dragon",Fossil Pokémon,generation-viii
+881,881_arctozolt.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/881_arctozolt.png,arctozolt,electric and ice-type fossil pokemon,"electric, ice",Fossil Pokémon,generation-viii
+882,882_dracovish.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/882_dracovish.png,dracovish,water and dragon-type fossil pokemon,"water, dragon",Fossil Pokémon,generation-viii
+883,883_arctovish.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/883_arctovish.png,arctovish,water and ice-type fossil pokemon,"water, ice",Fossil Pokémon,generation-viii
+884,884_duraludon.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/884_duraludon.png,duraludon,steel and dragon-type alloy pokemon,"steel, dragon",Alloy Pokémon,generation-viii
+885,885_dreepy.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/885_dreepy.png,dreepy,dragon and ghost-type lingering pokemon,"dragon, ghost",Lingering Pokémon,generation-viii
+886,886_drakloak.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/886_drakloak.png,drakloak,dragon and ghost-type caretaker pokemon,"dragon, ghost",Caretaker Pokémon,generation-viii
+887,887_dragapult.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/887_dragapult.png,dragapult,dragon and ghost-type stealth pokemon,"dragon, ghost",Stealth Pokémon,generation-viii
+888,888_zacian.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/888_zacian.png,zacian,fairy-type warrior pokemon,fairy,Warrior Pokémon,generation-viii
+889,889_zamazenta.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/889_zamazenta.png,zamazenta,fighting-type warrior pokemon,fighting,Warrior Pokémon,generation-viii
+890,890_eternatus.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/890_eternatus.png,eternatus,poison and dragon-type gigantic pokemon,"poison, dragon",Gigantic Pokémon,generation-viii
+891,891_kubfu.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/891_kubfu.png,kubfu,fighting-type wushu pokemon,fighting,Wushu Pokémon,generation-viii
+892,892_urshifu-single-strike.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/892_urshifu-single-strike.png,urshifu-single-strike,fighting and dark-type wushu pokemon,"fighting, dark",Wushu Pokémon,generation-viii
+893,893_zarude.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/893_zarude.png,zarude,dark and grass-type rogue monkey pokemon,"dark, grass",Rogue Monkey Pokémon,generation-viii
+894,894_regieleki.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/894_regieleki.png,regieleki,electric-type electron pokemon,electric,Electron Pokémon,generation-viii
+895,895_regidrago.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/895_regidrago.png,regidrago,dragon-type dragon orb pokemon,dragon,Dragon Orb Pokémon,generation-viii
+896,896_glastrier.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/896_glastrier.png,glastrier,ice-type wild horse pokemon,ice,Wild Horse Pokémon,generation-viii
+897,897_spectrier.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/897_spectrier.png,spectrier,ghost-type swift horse pokemon,ghost,Swift Horse Pokémon,generation-viii
+898,898_calyrex.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/898_calyrex.png,calyrex,psychic and grass-type king pokemon,"psychic, grass",King Pokémon,generation-viii
+899,899_wyrdeer.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/899_wyrdeer.png,wyrdeer,normal and psychic-type big horn pokemon,"normal, psychic",Big Horn Pokémon,generation-viii
+900,900_kleavor.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/900_kleavor.png,kleavor,bug and rock-type axe pokemon,"bug, rock",Axe Pokémon,generation-viii
+901,901_ursaluna.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/901_ursaluna.png,ursaluna,ground and normal-type peat pokemon,"ground, normal",Peat Pokémon,generation-viii
+902,902_basculegion-male.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/902_basculegion-male.png,basculegion-male,water and ghost-type big fish pokemon,"water, ghost",Big Fish Pokémon,generation-viii
+903,903_sneasler.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/903_sneasler.png,sneasler,fighting and poison-type free climb pokemon,"fighting, poison",Free Climb Pokémon,generation-viii
+904,904_overqwil.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/904_overqwil.png,overqwil,dark and poison-type pin cluster pokemon,"dark, poison",Pin Cluster Pokémon,generation-viii
+905,905_enamorus-incarnate.png,/Users/josephlattanzi/Scripts/PokeForge/data/processed/images/905_enamorus-incarnate.png,enamorus-incarnate,fairy and flying-type love-hate pokemon,"fairy, flying",Love-Hate Pokémon,generation-viii

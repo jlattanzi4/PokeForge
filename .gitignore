@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.Rhistory
+Thumbs.db
+
+# Large data files
+data/raw/images/
+data/raw/metadata/
+data/processed/images/
+
+# Keep metadata structure file if it exists
+!data/raw/metadata/all_pokemon.json
+
+# Model checkpoints (too large for GitHub)
+output/lora_model/checkpoint-*/
+output/lora_model/final_model/
+
+# Training outputs
+training.log
+*.log
+
+# Generated images (optional - uncomment if you want to exclude)
+# output/generated/*.png
+
+# Keep directory structure
+!.gitkeep
