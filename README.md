@@ -94,7 +94,7 @@ The fine-tuned model successfully:
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/PokeForge.git
+git clone https://github.com/jlattanzi4/PokeForge.git
 cd PokeForge
 
 # Install dependencies
